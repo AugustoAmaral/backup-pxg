@@ -1,0 +1,9387 @@
+uuid: xpKg/vN1BKJ6cHPcm7QZScWry3Y=
+interfaceScale: 3
+fontScale: 3
+language: Auto Detect
+graphicsDriver: Auto Detect
+classicControl: true
+smartWalk: true
+adjustNameBar: true
+showNpcNameBlue: true
+sidePanelsPosition: Right
+keepAllTilesVisible: true
+blurGameMap: true
+showDragPreviewItem: true
+generalOpacity: 100
+sidePanelOpacity: 100
+minimapOpacity: 100
+floatingNumbersOpacity: 100
+floatingTextsOpacity: 100
+staticTextsOpacity: 100
+legacy-files-restored: true
+autoLoot: true
+viplist-options-visible: true
+battlelist-sort-order: 1
+battlelist-sort-mode: 0
+battlelist-options-visible: true
+pokemon-show-focus-first: true
+pokemon-show-hotkeys: false
+pokemon-show-heath-percentage: false
+pokemon-show-in-fight: false
+pokemon-block-default-drag: false
+pokemon-block-left-click: false
+pokemon-keep-size-at-maximum: false
+pokemon-unfocus-delay: 3
+pokemon-interface-position: 1
+moves-order-with-crosshairs: true
+actions-fishing-display: 1
+actions-nw-display: false
+actions-show-bars-minimized: true
+actions-legacy-merged-with-console: true
+moves-label-type: 1
+moves-order-button: true
+moves-details-display: 3
+moves-tooltips: true
+showMinimapFlags: true
+showMinimapPosition: false
+showButtons: false
+minimapHouseFlagsDisplay: default
+map-locations-sort: distance
+pokedex-show-unkowns: true
+pokedex-show-image: true
+chronometer-options-visible: true
+tower-selected-floor: 1
+turnPokemon: true
+activateHotkeysTyping: false
+notification-ignore-tournament: false
+notification-ignore-party-invite: false
+notification-ignore-market: false
+showEventMessagesInChat: true
+showStatusMessagesInChat: true
+showTimestampsInChat: true
+showLevelsInChat: true
+autoOpenPrivateChannel: true
+privateMessageFromFriends: false
+ignorePrivateMessages: false
+consoleNotificationDisplay: 1
+tv-channel-password:
+pokedex-sort-by-name: false
+actions-game-is-hidden: false
+actions-game-slots-info:
+battlelist-hide-players: false
+battlelist-hide-npcs: false
+battlelist-hide-enemies: false
+battlelist-hide-party-pokemon: false
+game-interface-skin:
+muteAudioWhenMinimized: false
+muteStartupMusic: false
+installed-shortcut: true
+notification-ignore-pokemon-park: false
+notification-ignore-golden-arena: false
+notification-ignore-invasion: false
+haveAccount: true
+pokemon-show-interface: true
+actions-active-profile-Sicilly: 1
+map-locations-sort-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0: distance
+hotkeys-active-profile-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0: 1
+viplist-resize-to-fit-online: false
+market-enterpurchase-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0: false
+actions-active-profile-Nathalie Odda: 1
+map-locations-sort-e6e12b7865a4b7cc949a6c99b091ffb611893de4: distance
+hotkeys-active-profile-e6e12b7865a4b7cc949a6c99b091ffb611893de4: 1
+rewards-last-char-e6e12b7865a4b7cc949a6c99b091ffb611893de4: Nathalie Odda
+viplist-categories-e6e12b7865a4b7cc949a6c99b091ffb611893de4:
+  -
+    order: 1
+    name: Geral
+    id: default
+market-enterpurchase-e6e12b7865a4b7cc949a6c99b091ffb611893de4: false
+actions-active-profile-Allypha Hentai: 1
+gmInfosLook: false
+actions-active-profile-Pergarlardo: 1
+actions-active-profile-Bombomzinho: 1
+actions-active-profile-Libela: 1
+showFps: true
+referral-seen-55022ef8ef53f719954ba03bac7b4ca034d72154: true
+fullscreen: false
+pokedex-filter-catch: 0
+showHealthBars: true
+dialogSpeed: 3
+actions-health-display: 1
+actions-stamina-display: 1
+map-locations-favorites-e6e12b7865a4b7cc949a6c99b091ffb611893de4:
+  - house,Tb Nenazz
+map-locations-favorites-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0:
+  - house,Tb Nenazz
+hideChatPreview: false
+rewards-last-char-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0: Sicilly
+dungeon-open-camera: false
+actions-active-profile-Ye Ziyun: 1
+map-locations-sort-c017965b5b0c06907a98b1bd4fc492ad19e612e3: distance
+hotkeys-active-profile-c017965b5b0c06907a98b1bd4fc492ad19e612e3: 1
+rewards-last-char-c017965b5b0c06907a98b1bd4fc492ad19e612e3: Ye Ziyun
+map-locations-favorites-c017965b5b0c06907a98b1bd4fc492ad19e612e3:
+  - house,Tb Nenazz
+market-enterpurchase-c017965b5b0c06907a98b1bd4fc492ad19e612e3: false
+pix-name-account-55022ef8ef53f719954ba03bac7b4ca034d72154: Augusto Amaral Pereira
+pix-cpf-account-55022ef8ef53f719954ba03bac7b4ca034d72154: 14588095790
+pix-ignore-message-account-55022ef8ef53f719954ba03bac7b4ca034d72154: true
+market-enterpurchase-55022ef8ef53f719954ba03bac7b4ca034d72154: true
+interfaceVolume: 100
+effectsVolume: 100
+actions-active-profile-Pirata Augustym: 1
+chatAlwaysActive: false
+characters-favorites:
+  55022ef8ef53f719954ba03bac7b4ca034d72154:
+    - Pirata Augustym
+actions-active-profile-Pirata Pescador: 1
+map-locations-sort-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2: distance
+viplist-categories-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2:
+  -
+    order: 1
+    name: Geral
+    id: default
+market-enterpurchase-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2: false
+outfits-saved-55022ef8ef53f719954ba03bac7b4ca034d72154:
+  -
+    outfit:
+      feet: 114
+      type: 6388
+      body: 0
+      legs: 115
+      head: 0
+    name: Rockers
+    tauntInfo:
+      -
+        lookType: 6391
+        ms: 100
+        during: 4500
+rewards-last-char-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2: Pirata Pescador
+referral-seen-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2: true
+viplist-info-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2:
+  vip7714769:
+    iconColor: #c0835c
+    iconId: skull
+  vip7691077:
+    desc: Foi gentil explicando bagulho de leilão da casa
+    iconId: gardestrike
+map-locations-favorites-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2:
+  - mandarin
+  - house,Tb Nenazz
+hotkeys-active-profile-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2: 2
+hotkeys-active-profile-55022ef8ef53f719954ba03bac7b4ca034d72154: 3
+tv-channel-name: Undefined
+actions-is-hidden: false
+actions-active-profile-Tb Nenazz: 1
+hotkeys-active-profile-1a01981913adadeb00ea296c92d3cee01a3b9471: 1
+market-enterpurchase-1a01981913adadeb00ea296c92d3cee01a3b9471: false
+actions-active-profile-Neneca: 1
+showInfoMessagesInChat: true
+maximumMonsterTextMessages: 0
+floorFadingSpeed: 3
+gameFontScale: 1
+moves-horizontal: true
+showCreatureNames: true
+ambientLight: 0
+enableLight: false
+hoverDuration: Instant
+asyncRender: false
+enableParticles: true
+systemCursor: false
+gamepass-3-55022ef8ef53f719954ba03bac7b4ca034d72154: true
+bootstrap-restore-shader: true
+bootstrap-restore-shader-intensity: 0
+bootstrap-restore-master: 10
+bootstrap-restore-music: 0
+bootstrap-restore-environment: 0
+musicVolume: 0
+environmentVolume: 0
+shaderIntensity: 0
+displayTextMessages: true
+moves-merged-with: gameMapPanel
+showPrivateMessagesOnScreen: true
+IgnorePlayers:
+  - Brasza Z
+  - Scar Mid
+dg-last-diff-Pirata Augustym: 4
+dg-last-played-Pirata Augustym: halloween_2021_duo
+dg-favorites-Pirata Augustym:
+  - halloween_2021_duo
+map-locations-sort-55022ef8ef53f719954ba03bac7b4ca034d72154: name
+map-locations-sort-1a01981913adadeb00ea296c92d3cee01a3b9471: name
+last-character-93fdc52165803c409bde755e23ea31f3accd0f34:
+  world: prisma
+  name: Ney Hyago
+  avatar: a1
+actions-active-profile-Augustym: 1
+map-locations-sort-5bc5319057ab1c697d0f015680724b7512a64499: name
+hotkeys-active-profile-5bc5319057ab1c697d0f015680724b7512a64499: 1
+rewards-last-char-5bc5319057ab1c697d0f015680724b7512a64499: Augustym
+pix-name-account-5bc5319057ab1c697d0f015680724b7512a64499: Augusto Amaral Pereira
+pix-cpf-account-5bc5319057ab1c697d0f015680724b7512a64499: 14588095790
+pix-ignore-message-account-5bc5319057ab1c697d0f015680724b7512a64499: true
+viplist-categories-5bc5319057ab1c697d0f015680724b7512a64499:
+  -
+    order: 1
+    id: default
+    name: Geral
+    minimized: false
+viplist-info-5bc5319057ab1c697d0f015680724b7512a64499:
+  vip7709369:
+    desc: |
+      ks com bonus xp
+    iconColor: #CCC
+    iconId: skull
+  vip7692760:
+    desc: |
+      ks com bonus xp
+    iconColor: #CCC
+    iconId: skull
+  vip7691077:
+    desc: Foi gentil explicando bagulho de leilão da casa
+    iconId: gardestrike
+  vip7698959:
+    iconColor: #CCC
+    iconId: skull
+  vip7711907:
+    desc: KS metang
+    iconColor: #ff4000
+    iconId: skull
+  vip7727941:
+    iconColor: #CCC
+    iconId: skull
+  vip7714769:
+    iconColor: #c0835c
+    iconId: skull
+  vip7699210:
+    desc: Ks bonus xp
+    iconColor: #CCC
+    iconId: skull
+map-locations-favorites-5bc5319057ab1c697d0f015680724b7512a64499:
+  - house,Pirata Augustym
+  - gateon
+  - mandarin
+  - house,Tb Nenazz
+market-enterpurchase-5bc5319057ab1c697d0f015680724b7512a64499: false
+rewards-last-char-1a01981913adadeb00ea296c92d3cee01a3b9471: Neneca
+mentoring-notifications: true
+notification-ignore-super-resources: 1
+actions-slots-converted: true
+showOnlyMyResets: false
+rule-accepted: 1679355200
+already-migrated-pokemoves-55022ef8ef53f719954ba03bac7b4ca034d72154: true
+stats-clicks-data-55022ef8ef53f719954ba03bac7b4ca034d72154:
+already-migrated-pokemoves-e6e12b7865a4b7cc949a6c99b091ffb611893de4: true
+stats-clicks-data-e6e12b7865a4b7cc949a6c99b091ffb611893de4:
+viplist-info-e6e12b7865a4b7cc949a6c99b091ffb611893de4:
+  vip7699210:
+    iconColor: #CCC
+    iconId: skull
+    desc: Ks bonus xp
+  vip7711907:
+    iconColor: #ff4000
+    iconId: skull
+    desc: KS metang
+  vip7698959:
+    iconId: skull
+    iconColor: #CCC
+  vip7691077:
+    iconId: gardestrike
+    desc: Foi gentil explicando bagulho de leilão da casa
+  vip7692760:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7709369:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7714769:
+    iconId: skull
+    iconColor: #c0835c
+  vip7727941:
+    iconId: skull
+    iconColor: #CCC
+already-migrated-pokemoves-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0: true
+stats-clicks-data-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0:
+viplist-categories-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0:
+  -
+    order: 1
+    name: Geral
+    minimized: false
+    id: default
+viplist-info-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0:
+  vip7699210:
+    iconColor: #CCC
+    iconId: skull
+    desc: Ks bonus xp
+  vip7711907:
+    iconColor: #ff4000
+    iconId: skull
+    desc: KS metang
+  vip7698959:
+    iconId: skull
+    iconColor: #CCC
+  vip7691077:
+    iconId: gardestrike
+    desc: Foi gentil explicando bagulho de leilão da casa
+  vip7692760:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7709369:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7714769:
+    iconId: skull
+    iconColor: #c0835c
+  vip7727941:
+    iconId: skull
+    iconColor: #CCC
+already-migrated-pokemoves-c017965b5b0c06907a98b1bd4fc492ad19e612e3: true
+stats-clicks-data-c017965b5b0c06907a98b1bd4fc492ad19e612e3:
+viplist-categories-c017965b5b0c06907a98b1bd4fc492ad19e612e3:
+  -
+    order: 1
+    name: Geral
+    minimized: false
+    id: default
+viplist-info-c017965b5b0c06907a98b1bd4fc492ad19e612e3:
+  vip7699210:
+    iconColor: #CCC
+    iconId: skull
+    desc: Ks bonus xp
+  vip7711907:
+    iconColor: #ff4000
+    iconId: skull
+    desc: KS metang
+  vip7698959:
+    iconId: skull
+    iconColor: #CCC
+  vip7691077:
+    iconId: gardestrike
+    desc: Foi gentil explicando bagulho de leilão da casa
+  vip7692760:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7709369:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7714769:
+    iconId: skull
+    iconColor: #c0835c
+  vip7727941:
+    iconId: skull
+    iconColor: #CCC
+last-character-e6e12b7865a4b7cc949a6c99b091ffb611893de4:
+  name: Nathalie Odda
+  avatar: b20
+  world: prisma
+last-character-c017965b5b0c06907a98b1bd4fc492ad19e612e3:
+  name: Ye Ziyun
+  avatar: a1
+  world: steel
+last-character-f6f56ccd8075260e89c3e460a7602a6e8bf9d5b2:
+  name: Pirata Pescador
+  avatar: a1
+  world: violet
+last-character-5bc5319057ab1c697d0f015680724b7512a64499:
+  name: Kharynn
+  avatar: a50
+  world: wind
+actions-active-profile-Allypha Ecchi: 1
+masterVolume: 0
+rewards-last-char-55022ef8ef53f719954ba03bac7b4ca034d72154: Allypha Ecchi
+viplist-hide-offline: true
+last-character-8a6b507886aae4139bcaf091abfe9bdbb5cd78e0:
+  name: Sicilly
+  world: prisma
+  avatar: b20
+actions-active-profile-Under Dragon: 1
+already-migrated-pokemoves-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb: true
+map-locations-sort-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb: name
+hotkeys-active-profile-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb: 1
+rewards-last-char-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb: Under Dragon
+stats-clicks-data-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb:
+map-locations-favorites-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb:
+  - house,Neneca
+  - agate
+  - house,Pirata Augustym
+  - gateon
+  - mandarin
+  - house,Tb Nenazz
+market-enterpurchase-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb: false
+last-character-fb62c2c03540852cd5f1b26b98a73bac25a47d4f:
+  world: violet
+  avatar: a1
+  name: Tovarisch
+actions-active-profile-Tovarisch: 1
+already-migrated-pokemoves-fb62c2c03540852cd5f1b26b98a73bac25a47d4f: true
+map-locations-sort-fb62c2c03540852cd5f1b26b98a73bac25a47d4f: distance
+hotkeys-active-profile-fb62c2c03540852cd5f1b26b98a73bac25a47d4f: 1
+rewards-last-char-fb62c2c03540852cd5f1b26b98a73bac25a47d4f: Tovarisch
+stats-clicks-data-fb62c2c03540852cd5f1b26b98a73bac25a47d4f:
+viplist-info-fb62c2c03540852cd5f1b26b98a73bac25a47d4f:
+map-locations-favorites-fb62c2c03540852cd5f1b26b98a73bac25a47d4f:
+market-enterpurchase-fb62c2c03540852cd5f1b26b98a73bac25a47d4f: false
+viplist-categories-fb62c2c03540852cd5f1b26b98a73bac25a47d4f:
+  -
+    order: 1
+    name: Geral
+    id: default
+last-character-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb:
+  avatar: a2
+  world: violet
+  name: Under Dragon
+viplist-categories-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb:
+  -
+    name: Geral
+    minimized: false
+    order: 1
+    id: default
+viplist-info-c0f220f2fecaaaefaab97aea6662d10fa2c27cfb:
+  vip7698959:
+    iconColor: #CCC
+    iconId: skull
+  vip7714769:
+    iconColor: #c0835c
+    iconId: skull
+  vip7692760:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7709369:
+    iconColor: #CCC
+    iconId: skull
+    desc: |
+      ks com bonus xp
+  vip7691077:
+    desc: Foi gentil explicando bagulho de leilão da casa
+    iconId: gardestrike
+  vip7699210:
+    iconColor: #CCC
+    iconId: skull
+    desc: Ks bonus xp
+  vip7727941:
+    iconColor: #CCC
+    iconId: skull
+  vip7711907:
+    iconColor: #ff4000
+    iconId: skull
+    desc: KS metang
+  vip7649721:
+    iconColor: #CCC
+    iconId: skull
+last-character-1112a5b1a039a2e7fa29f7faf11d2ead162b066b:
+  world: violet
+  name: Over Gol
+  avatar: a28
+actions-active-profile-Over Gol: 1
+already-migrated-pokemoves-1112a5b1a039a2e7fa29f7faf11d2ead162b066b: true
+map-locations-sort-1112a5b1a039a2e7fa29f7faf11d2ead162b066b: distance
+hotkeys-active-profile-1112a5b1a039a2e7fa29f7faf11d2ead162b066b: 1
+stats-clicks-data-1112a5b1a039a2e7fa29f7faf11d2ead162b066b:
+viplist-info-1112a5b1a039a2e7fa29f7faf11d2ead162b066b:
+map-locations-favorites-1112a5b1a039a2e7fa29f7faf11d2ead162b066b:
+market-enterpurchase-1112a5b1a039a2e7fa29f7faf11d2ead162b066b: false
+rewards-last-char-1112a5b1a039a2e7fa29f7faf11d2ead162b066b: Over Gol
+viplist-categories-1112a5b1a039a2e7fa29f7faf11d2ead162b066b:
+  -
+    order: 1
+    name: Geral
+    id: default
+hotkeys-active-profile: 3
+already-migrated-pokemoves-1a01981913adadeb00ea296c92d3cee01a3b9471: true
+stats-clicks-data-1a01981913adadeb00ea296c92d3cee01a3b9471:
+gamepass-4-55022ef8ef53f719954ba03bac7b4ca034d72154: true
+viplist-categories-1a01981913adadeb00ea296c92d3cee01a3b9471:
+  -
+    order: 1
+    name: Geral
+    id: default
+    minimized: false
+map-locations-favorites-1a01981913adadeb00ea296c92d3cee01a3b9471:
+  - house,Neneca
+  - house,Pirata Augustym
+  - mandarin
+  - house,Tb Nenazz
+viplist-info-1a01981913adadeb00ea296c92d3cee01a3b9471:
+  vip7691077:
+    desc: Foi gentil explicando bagulho de leilão da casa
+    iconId: gardestrike
+  vip7714769:
+    iconColor: #c0835c
+    iconId: skull
+  vip7698959:
+    iconColor: #CCC
+    iconId: skull
+notifications:
+  Allypha Ecchi:
+smartWalkDelay: 0
+legacyInterface: true
+mouseWalk: true
+walkOnUse: true
+last-character-1a01981913adadeb00ea296c92d3cee01a3b9471:
+  name: Neneca
+  avatar: a80
+  world: violet
+login_account: KZDIK024gi1fAKeLoFup9q1GN41Y++3PQvmPNlM=
+login_password: OZ+Whx7vuxJHPaT78UWUxqYKHp8=
+login_remember: true
+moves-lock-position: true
+actions-visible: 36
+actions-last-count:
+  - 180
+  - 36
+map-locations-favorites-55022ef8ef53f719954ba03bac7b4ca034d72154:
+  - cerulean
+  - phenac
+  - outland south
+  - outland north
+  - outland east
+  - house,Neneca
+  - agate
+  - house,Pirata Augustym
+  - gateon
+  - mandarin
+  - house,Tb Nenazz
+enableShaders: true
+maxFps: 241
+vsync: false
+actions-active-page:
+  - 1
+  - 1
+last-seen-news: 64488cb7939016001927737c
+topmenu-visible: true
+game-interface-splitter-margin: 206
+crafting-favorites:
+  55022ef8ef53f719954ba03bac7b4ca034d72154:
+    - 818
+    - 17579
+    - 18603
+    - 17187
+    - 17152
+    - 17166
+    - 27497
+    - 17180
+    - 17201
+    - 17229
+    - 19359
+    - 19370
+    - 18335
+pokemon-legacy: true
+fight-modes:
+  Nathalie Odda: 3
+  Ye Ziyun: 3
+  Bombomzinho: 1
+  Libela: 3
+  Pergarlardo: 1
+  Neneca: 3
+  Pirata Pescador: 3
+  Sicilly: 3
+  Pirata Augustym: 3
+  Under Dragon: 3
+  Augustym: 3
+  Allypha Ecchi: 3
+moves-pos:
+  x: 659
+  y: 753
+game_usedballs:
+  showAll: true
+  hideCaughtPokemon: false
+lastChannelsOpen:
+  Tovarisch:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Pirata Augustym:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+      -
+        id: Trade Center
+      -
+        id: Neneca
+    channels:
+      Trade Center: 5
+  Bombomzinho:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Ye Ziyun:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Allypha Hentai:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Libela:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+      -
+        id: Trade Center
+      -
+        id: Navio Esgrima's Guild Channel
+      -
+        id: Party Channel
+      -
+        id: Pirata Rnzin's Channel
+    channels:
+      Navio Esgrima's Guild Channel: 0
+      Trade Center: 5
+      Pirata Rnzin's Channel: 2646
+      Party Channel: 2578
+  Pergarlardo:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Pirata Pescador:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+      -
+        id: Deanston Whisky
+  Sicilly:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Augustym:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Tb Nenazz:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Neneca:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Allypha Ecchi:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+      -
+        id: Trade Center
+    channels:
+      Trade Center: 5
+  Nathalie Odda:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Under Dragon:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+  Over Gol:
+    settings:
+      -
+        id: Padrão
+      -
+        id: Registro do Servidor
+pokemon-team-display-order:
+  Bombomzinho:
+    - 30917179
+    - 30917200
+    - 30917000
+  Pirata Augustym:
+    - 32671386
+    - 28758324
+    - 34436158
+    - 28506317
+    - 28385252
+    - 33141204
+  Libela:
+    - 31426442
+    - 32981902
+    - 28751279
+    - 32671386
+    - 29795831
+    - 28758324
+  Pergarlardo:
+    - 30914907
+    - 30914847
+    - 30914918
+  Pirata Pescador:
+    - 33342923
+    - 34608673
+    - 34608724
+    - 34608718
+    - 34996550
+    - 34972567
+  Sicilly:
+    - 1999934
+    - 3376474
+    - 2004192
+  Augustym:
+    - 312084
+    - 260835
+    - 267872
+    - 260741
+    - 280392
+  Tb Nenazz:
+    - 30626435
+    - 33497912
+    - 32019850
+    - 30212332
+    - 30118918
+    - 31282389
+  Neneca:
+    - 34668395
+    - 26266939
+    - 26828492
+    - 26881439
+    - 34851939
+    - 27775082
+  Allypha Ecchi:
+    - 29940946
+    - 32671386
+    - 34457997
+    - 28758324
+    - 28385252
+    - 34436158
+  Nathalie Odda:
+    - 3008012
+    - 3098322
+    - 3038913
+    - 3061955
+    - 3025223
+    - 3033536
+  Allypha Hentai:
+    - 26442659
+    - 26430894
+    - 25954262
+    - 26003051
+    - 26440801
+    - 26440430
+  Ye Ziyun:
+    - 5066695
+    - 6662856
+viplist-categories-55022ef8ef53f719954ba03bac7b4ca034d72154:
+  -
+    order: 1
+    name: Geral
+    id: default
+    minimized: false
+viplist-info-55022ef8ef53f719954ba03bac7b4ca034d72154:
+  vip7709369:
+    desc: |
+      ks com bonus xp
+    iconColor: #CCC
+    iconId: skull
+  vip7692760:
+    desc: |
+      ks com bonus xp
+    iconColor: #CCC
+    iconId: skull
+  vip7714769:
+    iconColor: #c0835c
+    iconId: skull
+  vip7711907:
+    desc: KS metang
+    iconColor: #ff4000
+    iconId: skull
+  vip7699210:
+    desc: Ks bonus xp
+    iconColor: #CCC
+    iconId: skull
+  vip7649721:
+    iconColor: #CCC
+    iconId: skull
+  vip7698959:
+    iconColor: #CCC
+    iconId: skull
+  vip7691077:
+    desc: Foi gentil explicando bagulho de leilão da casa
+    iconId: gardestrike
+  vip7727941:
+    iconColor: #CCC
+    iconId: skull
+actions-slots-info:
+  -
+    profileIndex: 1
+    profileName: Padrão
+    actions:
+      34:
+        useType: 4
+        itemId: 25574
+      148:
+        useType: 3
+        itemId: 2652
+      39:
+        useType: 4
+        itemId: 32234
+      79:
+        useType: 3
+        itemId: 33203
+      42:
+        useType: 3
+        itemId: 32239
+      48:
+        useType: 3
+        itemId: 32230
+      27:
+        useType: 3
+        itemId: 24046
+      156:
+        useType: 3
+        itemId: 16407
+      82:
+        useType: 3
+        itemId: 24068
+      174:
+        useType: 3
+        itemId: 37289
+      176:
+        useType: 3
+        itemId: 15961
+      122:
+        useType: 1
+        itemId: 25575
+      73:
+        useType: 3
+        itemId: 29280
+      139:
+        useType: 3
+        itemId: 22360
+      52:
+        useType: 3
+        itemId: 32244
+      37:
+        useType: 4
+        itemId: 32228
+      119:
+        useType: 3
+        itemId: 21860
+      47:
+        useType: 3
+        itemId: 32231
+      30:
+        useType: 3
+        itemId: 2321
+      78:
+        useType: 3
+        itemId: 33205
+      29:
+        useType: 3
+        itemId: 2321
+      80:
+        useType: 3
+        itemId: 37442
+      76:
+        useType: 3
+        itemId: 32855
+      84:
+        useType: 3
+        itemId: 40954
+      109:
+        useType: 4
+        itemId: 21858
+      49:
+        useType: 3
+        itemId: 32229
+      21:
+        useType: 1
+        itemId: 21855
+      5:
+        useType: 3
+        itemId: 31001
+      74:
+        useType: 3
+        itemId: 46546
+      113:
+        useType: 3
+        itemId: 21867
+      159:
+        useType: 3
+        itemId: 16404
+      180:
+        useType: 3
+        itemId: 21371
+      3:
+        useType: 2
+        itemId: 19382
+      178:
+        useType: 3
+        itemId: 13115
+      177:
+        useType: 3
+        itemId: 48184
+      111:
+        useType: 3
+        itemId: 21835
+      172:
+        useType: 3
+        itemId: 32866
+      45:
+        useType: 3
+        itemId: 32235
+      54:
+        useType: 3
+        itemId: 32242
+      171:
+        useType: 3
+        itemId: 22887
+      152:
+        useType: 3
+        itemId: 16397
+      151:
+        useType: 3
+        itemId: 16399
+      16:
+        useType: 4
+        itemId: 2270
+      147:
+        useType: 3
+        itemId: 2654
+      145:
+        useType: 3
+        itemId: 2149
+      144:
+        useType: 3
+        itemId: 21287
+      38:
+        useType: 4
+        itemId: 32236
+      40:
+        useType: 4
+        itemId: 32246
+      179:
+        useType: 3
+        itemId: 13114
+      35:
+        useType: 3
+        itemId: 19382
+      138:
+        useType: 3
+        itemId: 24966
+      36:
+        useType: 3
+        itemId: 2652
+      87:
+        useType: 3
+        itemId: 40966
+      112:
+        useType: 3
+        itemId: 21854
+      2:
+        useType: 3
+        itemId: 37441
+      33:
+        useType: 4
+        itemId: 21854
+      19:
+        useType: 1
+        itemId: 50156
+      51:
+        useType: 3
+        itemId: 32245
+      55:
+        useType: 3
+        itemId: 41276
+      31:
+        useType: 4
+        itemId: 2275
+      161:
+        useType: 3
+        itemId: 16398
+      121:
+        useType: 1
+        itemId: 21855
+      117:
+        useType: 3
+        itemId: 21853
+      115:
+        useType: 3
+        itemId: 21868
+      116:
+        useType: 3
+        itemId: 21864
+      22:
+        useType: 1
+        itemId: 25575
+      24:
+        useType: 3
+        itemId: 19354
+      28:
+        useType: 4
+        itemId: 25574
+      77:
+        useType: 3
+        itemId: 33207
+      41:
+        useType: 3
+        itemId: 32240
+      46:
+        useType: 3
+        itemId: 32233
+      4:
+        useType: 3
+        itemId: 19354
+      120:
+        useType: 3
+        itemId: 21854
+      23:
+        useType: 3
+        itemId: 19356
+      1:
+        useType: 4
+        itemId: 20096
+      43:
+        useType: 3
+        itemId: 32238
+      146:
+        useType: 3
+        itemId: 2651
+      142:
+        useType: 3
+        itemId: 21289
+      114:
+        useType: 3
+        itemId: 21859
+      75:
+        useType: 3
+        itemId: 22276
+      18:
+        useType: 3
+        itemId: 19355
+      149:
+        useType: 3
+        itemId: 27159
+      85:
+        useType: 3
+        itemId: 36280
+      158:
+        useType: 3
+        itemId: 16396
+      53:
+        useType: 3
+        itemId: 32243
+      155:
+        useType: 3
+        itemId: 16400
+      25:
+        useType: 3
+        itemId: 31001
+      141:
+        useType: 3
+        itemId: 17930
+      175:
+        useType: 3
+        itemId: 20691
+      160:
+        useType: 3
+        itemId: 16403
+      110:
+        useType: 3
+        itemId: 21866
+      81:
+        useType: 3
+        itemId: 22720
+      150:
+        useType: 3
+        itemId: 16406
+      154:
+        useType: 3
+        itemId: 16405
+      50:
+        useType: 3
+        itemId: 32241
+      143:
+        useType: 3
+        itemId: 21288
+      83:
+        useType: 3
+        itemId: 30801
+      20:
+        useType: 4
+        itemId: 21858
+      140:
+        useType: 3
+        itemId: 23071
+      86:
+        useType: 3
+        itemId: 40967
+      157:
+        useType: 3
+        itemId: 16402
+      153:
+        useType: 3
+        itemId: 16401
+      118:
+        useType: 3
+        itemId: 21852
+      26:
+        useType: 3
+        itemId: 50156
+      44:
+        useType: 3
+        itemId: 32237
+      173:
+        useType: 3
+        itemId: 20430
+  -
+    profileIndex: 2
+    profileName: Main
+    actions:
+moves-order-55022ef8ef53f719954ba03bac7b4ca034d72154:
+  -
+    order:
+      3: 2
+      6: 4
+      7: 5
+      8: 3
+      9: 1
+      5: 7
+      4: 6
+      2: 8
+      1: 9
+    pokemon: steelix
+  -
+    order:
+      3: 9
+      6: 3
+      7: 6
+      8: 4
+      10: 2
+      9: 5
+      5: 7
+      4: 8
+      2: 10
+    pokemon: cofagrigus
+  -
+    order:
+      3: 7
+      8: 2
+      9: 1
+      5: 4
+      1: 9
+      4: 5
+      2: 8
+      7: 3
+    pokemon: carracosta
+  -
+    order:
+      3: 8
+      8: 4
+      9: 3
+      5: 9
+      6: 2
+      4: 7
+      2: 6
+      7: 5
+    pokemon: mimikyu
+  -
+    order:
+      3: 7
+      8: 2
+      9: 1
+      1: 8
+      6: 4
+      4: 6
+      2: 9
+      7: 3
+    pokemon: beartic
+  -
+    order:
+      2: 3
+      3: 2
+    pokemon: banette
+  -
+    order:
+      3: 6
+      8: 1
+      1: 8
+      5: 3
+      6: 4
+      4: 5
+      2: 7
+      7: 2
+    pokemon: shiny fearow
+  -
+    order:
+      8: 2
+      3: 7
+      2: 8
+      4: 6
+      6: 4
+      7: 3
+    pokemon: mega lopunny
+  -
+    order:
+      9: 1
+      1: 9
+    pokemon: blissey
+  -
+    order:
+      3: 7
+      6: 5
+      7: 4
+      8: 2
+      9: 3
+      5: 6
+      4: 1
+      2: 8
+      1: 9
+    pokemon: ninetales
+MDIWindows:
+  chronometerWindow:
+    parentId: gameRightPanel
+    size:
+      width: 50
+      height: 70
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 0
+      y: 0
+    mdiDockIndex: 5
+    isClosed: true
+  vipWindow:
+    parentId: gameRightPanel
+    size:
+      width: 204
+      height: 130
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 0
+      y: 0
+    mdiDockIndex: 8
+    isClosed: true
+  container2.Sicilly:
+    position:
+      x: 1715
+      y: 506
+    size:
+      width: 204
+      height: 84
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 15
+    isClosed: false
+  container0.Nathalie Odda:
+    position:
+      x: 1715
+      y: 353
+    size:
+      width: 204
+      height: 210
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 12
+    isClosed: false
+  container0.Ye Ziyun:
+    position:
+      x: 1715
+      y: 531
+    size:
+      width: 204
+      height: 84
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container0.Augustym:
+    position:
+      x: 1715
+      y: 353
+    size:
+      width: 204
+      height: 156
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container6.Libela:
+    position:
+      x: 1715
+      y: 230
+    size:
+      width: 204
+      height: 210
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container0.Allypha Hentai:
+    position:
+      x: 1715
+      y: 431
+    size:
+      width: 204
+      height: 213
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container2.Libela:
+    position:
+      x: 1715
+      y: 640
+    size:
+      width: 204
+      height: 120
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container0.Libela:
+    position:
+      x: 1715
+      y: 230
+    size:
+      width: 204
+      height: 156
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 12
+    isClosed: false
+  container5.Sicilly:
+    position:
+      x: 1715
+      y: 293
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 15
+    isClosed: false
+  container1.Under Dragon:
+    position:
+      x: 1715
+      y: 455
+    size:
+      width: 204
+      height: 84
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  dittoWindow:
+    parentId: gameRightPanel
+    size:
+      width: 50
+      height: 180
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 0
+      y: 0
+    mdiDockIndex: 1
+    isClosed: true
+  container1.Pirata Augustym:
+    position:
+      x: 1715
+      y: 353
+    size:
+      width: 204
+      height: 181
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container2.Under Dragon:
+    position:
+      x: 1715
+      y: 383
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container1.Libela:
+    position:
+      x: 1715
+      y: 386
+    size:
+      width: 204
+      height: 254
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  battleWindow:
+    parentId: gameRightPanel
+    size:
+      width: 204
+      height: 438
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 0
+      y: 0
+    mdiDockIndex: 7
+    isClosed: true
+  container0.Pirata Pescador:
+    position:
+      x: 1331
+      y: 184
+    size:
+      width: 204
+      height: 282
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container4.Libela:
+    position:
+      x: 1715
+      y: 514
+    size:
+      width: 204
+      height: 210
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container5.Allypha Ecchi:
+    position:
+      x: 519
+      y: 488
+    size:
+      width: 204
+      height: 228
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container0.Sicilly:
+    position:
+      x: 1715
+      y: 353
+    size:
+      width: 204
+      height: 282
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 12
+    isClosed: false
+  container0.Over Gol:
+    position:
+      x: 959
+      y: 447
+    size:
+      width: 204
+      height: 156
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container4.Nathalie Odda:
+    position:
+      x: 1715
+      y: 230
+    size:
+      width: 204
+      height: 101
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container1.Augustym:
+    position:
+      x: 1715
+      y: 509
+    size:
+      width: 204
+      height: 120
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container2.Ye Ziyun:
+    position:
+      x: 1715
+      y: 353
+    size:
+      width: 204
+      height: 178
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container3.Libela:
+    position:
+      x: 390
+      y: 0
+    size:
+      width: 238
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container5.Over Gol:
+    position:
+      x: 1258
+      y: 434
+    size:
+      width: 204
+      height: 282
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container1.Allypha Ecchi:
+    parentId: gameRightPanel
+    size:
+      width: 204
+      height: 84
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 1715
+      y: 284
+    mdiDockIndex: 13
+    isClosed: false
+  container1.Sicilly:
+    position:
+      x: 1715
+      y: 635
+    size:
+      width: 204
+      height: 246
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container2.Tb Nenazz:
+    position:
+      x: 1715
+      y: 516
+    size:
+      width: 204
+      height: 120
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  groupMiniWindow:
+    parentId: gameRootPanel
+    size:
+      width: 309
+      height: 256
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 0
+      y: 537
+    isClosed: true
+  container3.Allypha Ecchi:
+    position:
+      x: 1715
+      y: 460
+    size:
+      width: 204
+      height: 228
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 15
+    isClosed: false
+  container3.Pirata Augustym:
+    position:
+      x: 1257
+      y: 234
+    size:
+      width: 204
+      height: 282
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container2.Neneca:
+    position:
+      x: 1715
+      y: 345
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container1.Nathalie Odda:
+    position:
+      x: 1715
+      y: 563
+    size:
+      width: 204
+      height: 120
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container6.Sicilly:
+    position:
+      x: 1715
+      y: 356
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 16
+    isClosed: false
+  container0.Neneca:
+    position:
+      x: 1715
+      y: 408
+    size:
+      width: 204
+      height: 282
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container0.Under Dragon:
+    position:
+      x: 860
+      y: 441
+    size:
+      width: 204
+      height: 228
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container3.Nathalie Odda:
+    position:
+      x: 1715
+      y: 457
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 17
+    isClosed: false
+  pokemonWindow:
+    parentId: gameRightPanel
+    size:
+      width: 204
+      height: 100
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 1715
+      y: 184
+    mdiDockIndex: 3
+    isClosed: false
+  container1.Over Gol:
+    position:
+      x: 1715
+      y: 455
+    size:
+      width: 204
+      height: 210
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container4.Neneca:
+    position:
+      x: 1715
+      y: 284
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 12
+    isClosed: false
+  container1.Pirata Pescador:
+    position:
+      x: 1331
+      y: 466
+    size:
+      width: 204
+      height: 68
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container7.Libela:
+    position:
+      x: 1715
+      y: 440
+    size:
+      width: 204
+      height: 192
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container1.Neneca:
+    position:
+      x: 1715
+      y: 690
+    size:
+      width: 204
+      height: 228
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 15
+    isClosed: false
+  container2.Over Gol:
+    position:
+      x: 1715
+      y: 665
+    size:
+      width: 204
+      height: 84
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container0.Bombomzinho:
+    position:
+      x: 1715
+      y: 230
+    size:
+      width: 204
+      height: 171
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+  container5.Libela:
+    position:
+      x: 1715
+      y: 908
+    size:
+      width: 204
+      height: 81
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 16
+    isClosed: false
+  profileWindow:
+    parentId: gameRightPanel
+    size:
+      width: 50
+      height: 150
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 0
+      y: 0
+    mdiDockIndex: 4
+    isClosed: true
+  container4.Pirata Augustym:
+    position:
+      x: 235
+      y: 2
+    size:
+      width: 237
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  minimapWindow:
+    parentId: gameRightPanel
+    size:
+      width: 204
+      height: 184
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 1715
+      y: 0
+    mdiDockIndex: 2
+    isClosed: false
+  container0.Pergarlardo:
+    position:
+      x: 1715
+      y: 184
+    size:
+      width: 204
+      height: 84
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 12
+    isClosed: false
+  nightmareGauntletWindow:
+    parentId: gameRightPanel
+    size:
+      width: 50
+      height: 190
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 0
+      y: 0
+    mdiDockIndex: 6
+    isClosed: true
+  container3.Sicilly:
+    position:
+      x: 1715
+      y: 482
+    size:
+      width: 204
+      height: 120
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 18
+    isClosed: false
+  container1.Tb Nenazz:
+    position:
+      x: 879
+      y: 397
+    size:
+      width: 204
+      height: 127
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container2.Allypha Ecchi:
+    parentId: gameRightPanel
+    size:
+      width: 204
+      height: 192
+    isLocked: false
+    isMinimized: false
+    position:
+      x: 1715
+      y: 368
+    mdiDockIndex: 14
+    isClosed: false
+  container0.Tb Nenazz:
+    position:
+      x: 1715
+      y: 453
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 13
+    isClosed: false
+  container0.Allypha Ecchi:
+    position:
+      x: 1505
+      y: 401
+    size:
+      width: 204
+      height: 192
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container0.Pirata Augustym:
+    position:
+      x: 1508
+      y: 0
+    size:
+      width: 204
+      height: 84
+    isLocked: false
+    isMinimized: false
+    parentId: gameRootPanel
+    isClosed: false
+  container2.Nathalie Odda:
+    position:
+      x: 1715
+      y: 394
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 16
+    isClosed: false
+  container4.Under Dragon:
+    position:
+      x: 1715
+      y: 728
+    size:
+      width: 204
+      height: 63
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 15
+    isClosed: false
+  container3.Neneca:
+    position:
+      x: 1715
+      y: 641
+    size:
+      width: 204
+      height: 192
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 15
+    isClosed: false
+  container2.Pirata Augustym:
+    position:
+      x: 1715
+      y: 512
+    size:
+      width: 204
+      height: 210
+    isLocked: false
+    isMinimized: false
+    parentId: gameRightPanel
+    mdiDockIndex: 14
+    isClosed: false
+game-look-position:
+  x: 799
+  y: 385
+hotkeys-profiles:
+  -
+    customHotkeys:
+      -
+        text: ⓿.⓿
+        keyOne: Ctrl+Shift+1
+        autoSend: true
+      -
+        autoSend: true
+        text: !shot
+    hotkeys:
+      -
+        combo: Ctrl+,
+        index: 2
+        action: pokestop
+      -
+        index: 2
+        action: action01
+      -
+        combo: Shift+F1
+        index: 3
+        action: spell05
+      -
+        index: 2
+        action: action02
+      -
+        combo: Shift+F2
+        index: 3
+        action: spell06
+      -
+        index: 2
+        action: action03
+      -
+        combo: Shift+F3
+        index: 3
+        action: spell07
+      -
+        index: 2
+        action: action04
+      -
+        combo: Shift+F4
+        index: 3
+        action: spell08
+      -
+        index: 2
+        action: call01
+      -
+        combo: Ctrl+F1
+        index: 3
+        action: spell09
+      -
+        index: 2
+        action: call02
+      -
+        combo: Ctrl+F2
+        index: 3
+        action: spell10
+      -
+        index: 2
+        action: call03
+      -
+        combo: Ctrl+F3
+        index: 3
+        action: spell11
+      -
+        index: 2
+        action: call04
+      -
+        combo: Ctrl+F4
+        index: 3
+        action: spell12
+      -
+        combo: ScrollLock
+        index: 3
+        action: fightoffensive
+      -
+        combo: Ctrl+MouseX1
+        index: 1
+        action: action17
+      -
+        combo: Ctrl+MouseMid
+        index: 1
+        action: action18
+      -
+        combo: Shift+MouseMid
+        index: 1
+        action: action15
+      -
+        combo: Shift+MouseX1
+        index: 1
+        action: action14
+      -
+        combo: Shift+MouseX2
+        index: 1
+        action: action13
+      -
+        combo: MouseX1
+        index: 1
+        action: action12
+      -
+        combo: Ctrl+;
+        index: 1
+        action: autowalk
+      -
+        combo: End
+        index: 2
+        action: useorderonself
+      -
+        index: 2
+        action: spell05
+      -
+        combo: F5
+        index: 1
+        action: action01
+      -
+        index: 3
+        action: fightbalanced
+      -
+        combo: Pause
+        index: 3
+        action: fightdefensive
+      -
+        index: 1
+        action: action16
+      -
+        index: 1
+        action: action22
+      -
+        combo: Ctrl+MouseX2
+        index: 1
+        action: action19
+      -
+        index: 1
+        action: action11
+      -
+        combo: MouseX2
+        index: 2
+        action: action11
+    preset: 1
+    index: 1
+    name: Padrão
+  -
+    customHotkeys:
+      -
+        text: ⓿.⓿
+        keyOne: Ctrl+Shift+1
+        autoSend: true
+      -
+        autoSend: true
+        text: !shot
+    hotkeys:
+      -
+        combo: Ctrl+,
+        index: 2
+        action: pokestop
+      -
+        index: 2
+        action: action01
+      -
+        combo: Shift+F1
+        index: 3
+        action: spell05
+      -
+        index: 2
+        action: action02
+      -
+        combo: Shift+F2
+        index: 3
+        action: spell06
+      -
+        index: 2
+        action: action03
+      -
+        combo: Shift+F3
+        index: 3
+        action: spell07
+      -
+        index: 2
+        action: action04
+      -
+        combo: Shift+F4
+        index: 3
+        action: spell08
+      -
+        index: 2
+        action: call01
+      -
+        combo: Ctrl+F1
+        index: 3
+        action: spell09
+      -
+        index: 2
+        action: call02
+      -
+        combo: Ctrl+F2
+        index: 3
+        action: spell10
+      -
+        index: 2
+        action: call03
+      -
+        combo: Ctrl+F3
+        index: 3
+        action: spell11
+      -
+        index: 2
+        action: call04
+      -
+        combo: Ctrl+F4
+        index: 3
+        action: spell12
+      -
+        combo: ScrollLock
+        index: 3
+        action: fightoffensive
+      -
+        combo: Ctrl+MouseX1
+        index: 1
+        action: action17
+      -
+        combo: Ctrl+MouseMid
+        index: 1
+        action: action18
+      -
+        combo: Shift+MouseMid
+        index: 1
+        action: action15
+      -
+        combo: Shift+MouseX1
+        index: 1
+        action: action14
+      -
+        combo: Shift+MouseX2
+        index: 1
+        action: action13
+      -
+        combo: MouseX1
+        index: 1
+        action: action12
+      -
+        combo: Ctrl+;
+        index: 1
+        action: autowalk
+      -
+        combo: End
+        index: 2
+        action: useorderonself
+      -
+        index: 2
+        action: spell05
+      -
+        combo: F5
+        index: 1
+        action: action01
+      -
+        index: 3
+        action: fightbalanced
+      -
+        combo: Pause
+        index: 3
+        action: fightdefensive
+      -
+        index: 1
+        action: action16
+      -
+        index: 1
+        action: action22
+      -
+        combo: Ctrl+MouseX2
+        index: 1
+        action: action19
+      -
+        index: 1
+        action: action11
+      -
+        combo: MouseX2
+        index: 2
+        action: action11
+    preset: 1
+    index: 2
+    name: Char low lvl
+  -
+    customHotkeys:
+      -
+        text: ⓿.⓿
+        autoSend: true
+        keyOne: Ctrl+Shift+1
+      -
+        autoSend: true
+        text: !shot
+      -
+        text: !taunt
+        autoSend: true
+        keyOne: NumpadDivide
+    hotkeys:
+      -
+        combo: Ctrl+,
+        index: 2
+        action: pokestop
+      -
+        index: 2
+        action: action01
+      -
+        combo: Shift+F1
+        index: 3
+        action: spell05
+      -
+        index: 2
+        action: action02
+      -
+        combo: Shift+F2
+        index: 3
+        action: spell06
+      -
+        index: 2
+        action: action03
+      -
+        combo: Shift+F3
+        index: 3
+        action: spell07
+      -
+        index: 2
+        action: action04
+      -
+        combo: Shift+F4
+        index: 3
+        action: spell08
+      -
+        index: 2
+        action: call01
+      -
+        combo: Ctrl+F1
+        index: 3
+        action: spell09
+      -
+        index: 2
+        action: call02
+      -
+        combo: Ctrl+F2
+        index: 3
+        action: spell10
+      -
+        index: 2
+        action: call03
+      -
+        combo: Ctrl+F3
+        index: 3
+        action: spell11
+      -
+        index: 2
+        action: call04
+      -
+        combo: Ctrl+F4
+        index: 3
+        action: spell12
+      -
+        combo: ScrollLock
+        index: 3
+        action: fightoffensive
+      -
+        combo: End
+        index: 2
+        action: useorderonself
+      -
+        index: 2
+        action: spell05
+      -
+        index: 3
+        action: fightbalanced
+      -
+        index: 1
+        action: action11
+      -
+        index: 1
+        action: action19
+      -
+        index: 1
+        action: action18
+      -
+        index: 1
+        action: action17
+      -
+        index: 1
+        action: action15
+      -
+        index: 1
+        action: action14
+      -
+        index: 1
+        action: action13
+      -
+        combo: Shift+1
+        index: 1
+        action: action01
+      -
+        index: 1
+        action: action04
+      -
+        index: 1
+        action: action05
+      -
+        index: 2
+        action: action05
+      -
+        index: 1
+        action: action06
+      -
+        index: 2
+        action: action06
+      -
+        index: 1
+        action: action07
+      -
+        index: 2
+        action: action07
+      -
+        index: 1
+        action: action08
+      -
+        index: 2
+        action: action08
+      -
+        index: 1
+        action: action09
+      -
+        index: 2
+        action: action09
+      -
+        index: 1
+        action: action10
+      -
+        index: 2
+        action: action10
+      -
+        index: 2
+        action: action11
+      -
+        index: 1
+        action: action12
+      -
+        index: 2
+        action: action12
+      -
+        index: 1
+        action: action20
+      -
+        combo: Shift+MouseX2
+        index: 1
+        action: action111
+      -
+        combo: Ctrl+/
+        index: 1
+        action: autowalk
+      -
+        combo: Alt+9
+        index: 2
+        action: fightdefensive
+      -
+        combo: Pause
+        index: 3
+        action: fightdefensive
+      -
+        index: 1
+        action: action25
+      -
+        combo: Ctrl+MouseX2
+        index: 1
+        action: action36
+      -
+        index: 2
+        action: spell07
+      -
+        combo: F7
+        index: 1
+        action: action03
+      -
+        combo: Shift+MouseX2
+        index: 1
+        action: action35
+      -
+        index: 1
+        action: action21
+      -
+        combo: MouseX2
+        index: 1
+        action: action34
+      -
+        combo: Ctrl+MouseX1
+        index: 1
+        action: action33
+      -
+        combo: Shift+MouseX1
+        index: 1
+        action: action32
+      -
+        index: 1
+        action: action22
+      -
+        combo: MouseX1
+        index: 1
+        action: action31
+      -
+        index: 1
+        action: action24
+      -
+        combo: Ctrl+MouseMid
+        index: 1
+        action: action30
+      -
+        index: 1
+        action: action23
+      -
+        combo: F5
+        index: 1
+        action: action29
+      -
+        index: 2
+        action: spell06
+      -
+        combo: F6
+        index: 1
+        action: action109
+      -
+        combo: NumpadMultiply
+        index: 1
+        action: action16
+    preset: 1
+    index: 3
+    name: Main
+dungeon-difficulty-selected:
+  halloweenVenusaur: 2
+  freddyK: 1
+  casa_myers: 1
+  bowstoiseCastle: 2
+  cemiterio_pewter: 1
+  cemiterio_lavender: 1
+  labirinto_panico: 1
+  sinister_cornfield: 1
+  cerulean_halloween: 3
+game_console:
+  position:
+    x: 0
+    y: 340
+  size:
+    width: 530
+    height: 200
+  messageHistory:
+    - intermed
+    - 260k de xp
+    - sim
+    - ta bem bom
+    - se eu tivesse feito essa porra de krabby club hj
+    - seria mt mais easy
+    - enfim
+    - da de colar disc rapipd
+    - ?
+    - mama:
+    - SORTEIO HOJE AS 21HS NO NAVIO, 105 DD! 4 VIP'S E UM SORTEIO DE 45 DD - ANIVERSARIO DO PIRATA!!
+    - malç
+    - vc pega na office jenny
+    - na saida de qualquer cidade
+    - h "pphenac
+    - h "phenac
+    - alguem tem vaga pro medium?
+    - LFG VENUM MEDIUM/EASY
+    - Vamos
+    - tem mais alguem?
+    - dibas
+    - certo
+    - Mas não entendi. vc quer entrar no venu/
+    - ?
+    - escreve no trade
+    - NEED 1 PLAYER VENU EASY NOW (LFP VENU EASY)
+    - o outro é 159
+    - med vai ser dificil
+    - blz
+    - tomei miss
+    - o colega foi de ralo
+    - safe
+    - to de cam
+    - o paia é tu chegar do nada e n falar nada
+    - Mas claro que pode
+    - e tbm eu n tenho como adivinhar
+    - vlw man
+    - boa noite
+    - n?
+    - vai ficar dando ks msm?
+    - n mandou pm
+    - to te entendo n mano
+    - eu n tava olhando o padrão
+    - eu vi ue
+    - n demoro n
+    - mas pessoalmente quero que vc se foda
+    - 03:24 Fawkes: Não há mais Pokémon para derrotar.
+    - tenho que matar 90
+    - 89
+    - 88
+    - quer next?
+    - 25
+    - pode ir
+    - OLÁ CAMARADA
+    - h "phenac
+    - tem time?
+    - eu vou
+    - falta +1
+    - te dei lider
+    - ty
+    - SIM
+    - pode queimar
+    - h "outland north
+    - koe mano
+    - Da pt com o mano ai
+    - Tovarischj
+    - Porque o bonus de xp n se aplica a dz?
+    - Ahooy pirata
+    - tava awayy
+    - OLÁ CAMARADA
+    - F
+    - |-
+      NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- 
+    - Quer ir?
+    - medium?
+    - |-
+      NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- NEED 1 PARA VENUSAUR MEDIUM -- 
+    - ok
+    - ty
+    - h "outland north
+    - qse
+    - 7 min b onus xpp
+    - plzp man
+    - im in bonus xp
+    - time
+    - with the star
+    - 5 min left
+    - I will ks you in nightmare whenever I can
+    - see ya
+    - Ignore
+    - h "cinnabar
+    - h "outland south
+    - fuihawsfdiuasdhasid
+    - UHIDFHASDIUFHASIDUHASDIUASHDAIUSDHASD
+    - ASUIDHASDFIUADSHFAIUSDHASIUFDHASIDUASHDIUHIU
+    - SAUHIFGVDIUFGHFDSIUGBHFGDIUBSHGBIUSDGFHSIUDFGHSDFIUGHSFDGUISHDFGUISFDHGSDFUHG
+    - FUASDHIFAHSDFIUASHDFIUASDFHASIUDFHASIUDFHASIUDFHASDIUFSHADFIUAS
+    - ASDFG
+    - HDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFGHDFASDFGADFG
+    - h "outland east
+    - time?
+    - Ill be waiting here then
+    - h "outland east
+    - 30 left
+    - cam aberta
+    - poke
+    - esqueci de falar
+    - n
+    - vai lá
+    - boa hunt ai
+    - h "outland north
+    - h "shamouti
+    - h "coliseum
+    - h "outland north
+    - 900 poke left
+    - :
+    - !clones
+    - sai
+    - h "phenac
+    - time:
+    - ?
+    - im next then
+    - ok:
+    - ?
+    - blz
+    - to ouvido so kkk
+    - pode vir
+    - ja até bateu
+    - !taunt
+    - aham
+    - h "gateon
+    - to indo la pra area de dz
+    - como vai ser:
+    - morreu
+    - :
+    - go
+    - y
+    - pokimao burro
+    - to com um lagzin
+    - umas travada aleatoria
+    - ta com qnts chaves:
+    - bernar ja fez fd
+    - sim
+    - eu tenho 35 ainda
+    - mlk
+    - fico mt puto
+    - tu vai sair as 20 msm
+    - se tu quiser ir
+    - tem cao n
+    - da pra ir amanha de manha
+    - so que acaba a dz no ss
+    - ctz
+    - um maluco comecou a interagir aq do nada
+    - fi
+    - na irl
+    - 1 min
+    - vamo
+    - acabei de passar meu curriculo pra u mcara aq do nada
+    - lol
+    - bizarro
+    - john lagger
+    - blz
+    - tem quantas fchaves
+    - pra fazer o resto solo aq
+    - ok
+    - vo mija ent
+    - go
+    - tava sem device
+    - s
+    - lag
+    - n
+    - vai la
+    - vo para aq
+    - vai logo
+    - mlk
+    - vai
+    - ty
+    - se der
+    - faz ai
+    - se n der
+    - safe
+    - 2.0221117103353e+14
+    - craw
+    - O emblema de profissão é um item utilizavel?
+    - h "outland south
+    - O emblema de profissão é um item utilizavel?
+    - tempo?
+    - ahooy
+    - ta
+    - vou nas shiny la
+    - h "pokepark
+    - h "tangelo
+    - n conta
+    - quando sair me avise por favor
+    - okk
+    - perai
+    - shutdown no meio do pokepark???
+    - shutdown no meio do pokepark??? eu vou perder o ticket?
+    - !taunt
+    - oi
+    - loa
+    - ]sim
+    - eu nem no disc to
+    - ta conectando eterno
+    - !taunt
+    - po
+    - posso ouvir?
+    - Blz
+    - achando me manda pm então
+    - Need team jogo de futebol
+    - asiofdhsadfiuasdhui
+    - dsfiduhjsfgfhsaduifihuasfdhiusadfhiusadhfiuasdhiufsadhuifashuidfhuisdf]
+    - dsfjhkbdbrfhjsdghjbnkasdfbhjg
+    - aeeeeeeeeeeeeeeee
+    - ezzzz boy
+    - h "outland north
+    - h "agate
+    - !particle
+    - h "phenac
+    - h "outland south
+    - GOGOGO FIFA
+    - h "gateon
+    - I was didnt notticing
+    - tbh
+    - h "shamouti
+    - h "outland north
+    - can I catch?
+    - Just want catch
+    - oh
+    - just 20 min
+    - or less
+    - go
+    - finished
+    - h "hamlin
+    - h "outland north
+    - h "outland east
+    - h "outland north
+    - Vou bem, e você?
+    - Não me lembro, mas talvez
+    - Entendi
+    - Obrigado então! :)
+    - Bom dia e bom trabalho!
+    - h "outland south
+    - time?
+    - tellme when you' re done, please
+    - 21 min
+    - bonus
+    - qnt tempo falta ai?
+    - s
+    - to dando volta extra
+    - ta aq ja?
+    - boa hunt
+    - Sim
+    - Mas tem que lurar bem
+    - E tem que tomar cuidado pq esse bixo ai as vezes bate bem forte
+    - e ai?
+    - h "outland south
+    - |-
+      h 
+    - h "cerulean
+    - mal
+    - time?
+    - blz anjo
+    - ta ainda?
+    - ?
+    - h "agate
+    - time?
+    - Vai ficar qnt tempo?
+    - h "agate
+    - h "phenac
+    - qnt tempo ai?
+    - !houseinfo
+    - yo indo pro treco de adv
+    - calmai mano
+    - to procurando aq
+    - mt lixo
+    - te dei o steelix
+    - ?
+    - q?
+    - scho wur foi
+    - n to achando o +50
+    - deve estar na acc de leo
+    - blz
+    - tem que comprar uma casa
+    - tem mt poke aleatorio
+    - eu tenho uma squeen
+    - do nada
+    - tem dinheiro pra comprar?
+    - ok
+    - vo de trampo
+    - bjoks
+    - !particles
+    - !particle
+    - h "phenac
+    - cola
+    - faz umas voltas ai
+    - to lagando
+    - vou só riniciar a net por precaução
+    - meu cachorro vomitou
+    - kk
+    - perai
+    - roda ia
+    - voltei
+    - boa
+    - vlw
+    - h "hamlin
+    - h"neneca's house
+    - h "phenac
+    - hi
+    - which one?
+    - any orre pokemon can drop it
+    - I suggest the wingul evolution]
+    - once its water/fly
+    - h "saffron
+    - h "agate
+    - h "phenac
+    - |-
+       18:32 Alessa: Não há mais Swampert para derrotar..
+    - eu tbm
+    - beb
+    - disc
+    - \
+    - 15kk
+    - kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+    - pronto
+    - 15 kks
+    - h "gateon
+    - h "outland south
+    - arrumou time?
+    - NEED TEAM CLONES 4 - 3/4
+    - qnt?
+    - NEED TEAM CLONES 4 - 3/4
+    - cla?
+    - a
+    - pdp
+    - manda bernar abri live
+    - pf
+    - posso dar tp
+    - n to ouvindo
+    - indo
+    - levo o q?
+    - h "hamlin
+    - sure
+    - nice
+    - caiu
+    - he lost his internet connection
+    - h "hamlin
+    - h "outland north
+    - h "butwal
+    - h "outland south
+    - boa
+    - h "gateon
+    - y
+    - need to leave temporarially
+    - you can keep the resp if you want
+    - h "shamouti
+    - h "outland north
+    - NEED TEAM CLONE 2/4
+    - NEED TEAM CLONES NV 4 - 3/4
+    - Clones 4?
+    - SELL GOLDEN CHEST
+    - H "PHENAC
+    - h "hamlin
+    - oh lord oh lord oh lord oh lord
+    - ty
+    - |-
+       22:06 Sua Poké Bola agora é +50.
+    - h "gateon
+    - ent lek
+    - devo ficar mais uns 30 min só
+    - salve mano
+    - ta pra vir aq
+    - ?
+    - então vou extender
+    - Thank you!
+    - se pegalo eres teu
+    - :(
+    - Solo hablas español?
+    - I was saying that if I caught that one with premmier ball I would give it to you
+    - 2 magmortar
+    - It was luck
+    - Was after 30 minutes and 2 in a row
+    - y
+    - h "outland south
+    - ta caçando o q?
+    - In which resp are you huinting?
+    - ok!
+    - h "outland north
+    - Que isso colega
+    - h "outland south
+    - h "gateon
+    - caro demais mane
+    - |-
+       "outland north
+    - h"outland north
+    - h "outland north
+    - h "agate
+    - h "pewter
+    - h "outland south
+    - 19kk
+    - cause I don't want to sell it lol
+    - :p
+    - h "murcott
+    - h "valencia
+    - h "gateon
+    - Taca ball ai
+    - dps eu volto
+    - Vou ter que ver umas coisas
+    - Se quiser mais tarde um pouco eu volto pra matar
+    - Can I catch?
+    - you wont believe
+    - 21:11 Você capturou um Pokémon (Venusaur)! 21:11 Você já está carregando seis Pokémon. Seu novo Pokémon foi enviado ao depósito no Centro Pokémon!
+    - 19
+    - lol
+    - I need to kill it, but I can do it later or tomorrow morning
+    - let me know if you leave the resp
+    - plz
+    - will kill some meganium during that
+    - done lol
+    - I'm here at the entrance
+    - ty';
+    - thank you again
+    - OLHA VINICIUS
+    - CALMA COM MAMÃE
+    - h "outland north
+    - po
+    - rodei a cam e n vi
+    - mas blz
+    - ja peguei os dai
+    - :/
+    - falei kk
+    - qse
+    - pode ser, mas ta bom que ele ta diminuindo os mobs kkk
+    - indo
+    - desculpa kkk
+    - tem um no resp anterior
+    - primeira vez na nw
+    - revive ta no cd, tenho que bater na mightyena
+    - até falaria pra vc tankar
+    - mas nem eu confio em mim
+    - então melhor esperar
+    - finaliza
+    - por favor
+    - obrigado
+    - nice
+    - muito obrigado
+    - tem um sudo aq
+    - pode matar
+    - foi só o tempo deu sair pra pegar a diara
+    - lol
+    - literalmente todos
+    - ta
+    - ta de bia
+    - mas se quiser
+    - pode vir
+    - nice neneca
+    - s
+    - se liga\
+    - \ja que tu vai comprar dd msm
+    - ve no grupo la
+    - mas que belo homosexual
+    - vc é
+    - tu me pagava dps fdp
+    - e da pra pagar no credito pelo picpola
+    - jaja vou sair
+    - perai
+    - então
+    - devo ficar mais 15 min
+    - duas voltas
+    - s
+    - nice
+    - ultima volta
+    - saindo
+    - jajajaja volto
+    - flw
+    - É O NENAZz?\
+    - !troll
+    - !foreveralone
+    - !alone
+    - h "outland north
+    - h "phenac
+    - pse
+    - ta por onde, meu bb
+    - posso pegar a daily disso?
+    - #BLACKLIVES MATTER
+    - #BLACKLIVESMATTER
+    - |-
+       #BLACKLIVESMATTER
+    - ##BLACKLIVESMATTER
+    - _#BLACKLIVESMATTER
+    - ___#BLACKLIVESMATTER
+    - bLACKLIVESMATTER
+    - *Neneca* Teste
+    - *Neneca* ;
+    - *Neneca* *Neneca*  15:23 Bradford: Você derrotou um Nightmare Dragonair. Ainda há 4 restante(s) para concluir.
+    - bom dia
+    - n
+    - 'to de saida
+    - oi
+    - me pesommer gount o
+    - me pergunto o mesmo*
+    - mas deve estar bebendo em algum lugar
+    - por que?
+    - :(
+    - pse
+    - acho q n
+    - ou deu uma pausa
+window:
+  maximized: true
+  position:
+    x: 640
+    y: 300
+  size:
+    width: 640
+    height: 480
+  fullscreen: false
+Minimap:
+  flags:
+    -
+      icon: flag
+      position:
+        y: 33014
+        z: 6
+        x: 30109
+      description: SAIDA NINETALES
+    -
+      icon: flag
+      position:
+        y: 21493
+        z: 7
+        x: 30059
+      description: SAIDA DODRIO
+    -
+      icon: flag
+      position:
+        y: 32412
+        z: 7
+        x: 30039
+      description: SAIDA RHYDON
+    -
+      icon: checkmark
+      position:
+        y: 37348
+        z: 7
+        x: 30099
+    -
+      icon: flag
+      position:
+        y: 37568
+        z: 7
+        x: 30050
+      description: SAIDA AERO
+    -
+      icon: flag
+      position:
+        y: 38779
+        z: 7
+        x: 30159
+      description: SAIDA TOED
+    -
+      icon: checkmark
+      position:
+        y: 6227
+        z: 7
+        x: 3564
+    -
+      icon: exclamationmark
+      position:
+        y: 3324
+        z: 4
+        x: 5331
+      description: MTO FACIL
+    -
+      icon: star
+      position:
+        y: 37623
+        z: 7
+        x: 30078
+      description: safe
+    -
+      icon: times
+      position:
+        y: 3310
+        z: 4
+        x: 5345
+      description: done
+    -
+      icon: times
+      position:
+        y: 12421
+        z: 8
+        x: 10149
+      description: 8min
+    -
+      icon: flag
+      position:
+        y: 35944
+        z: 7
+        x: 30109
+      description: SAIDA ONIX
+    -
+      icon: flag
+      position:
+        y: 35811
+        z: 7
+        x: 30025
+      description: SAIDA ONIX
+    -
+      icon: flag
+      position:
+        y: 34928
+        z: 7
+        x: 30082
+      description: SAIDA ARIADOS
+    -
+      icon: flag
+      position:
+        y: 36889
+        z: 6
+        x: 30162
+      description: SAIDA MAGNETOM
+    -
+      icon: flag
+      position:
+        y: 38179
+        z: 7
+        x: 30109
+      description: SAIDA TOED
+    -
+      icon: flag
+      position:
+        y: 20041
+        z: 6
+        x: 30898
+      description: RAMPARDOS
+    -
+      icon: star
+      position:
+        y: 12534
+        z: 10
+        x: 10020
+      description: 35 min
+    -
+      icon: flag
+      position:
+        y: 33363
+        z: 6
+        x: 30012
+      description: SAIDA NINETALES
+    -
+      icon: flag
+      position:
+        y: 34133
+        z: 7
+        x: 30073
+      description: SAIDA STANTLER
+    -
+      icon: flag
+      position:
+        y: 35338
+        z: 7
+        x: 30031
+      description: SAIDA ONIX
+    -
+      icon: star
+      position:
+        y: 3312
+        z: 5
+        x: 5333
+      description: nao foi
+    -
+      icon: flag
+      position:
+        y: 20741
+        z: 4
+        x: 33247
+      description: bixo
+    -
+      icon: flag
+      position:
+        y: 32114
+        z: 7
+        x: 30048
+      description: SAIDA
+    -
+      icon: flag
+      position:
+        y: 38069
+        z: 7
+        x: 30112
+      description: SAIDA TOED
+    -
+      icon: times
+      position:
+        y: 37172
+        z: 7
+        x: 30033
+      description: bomba
+    -
+      icon: skull
+      position:
+        y: 39347
+        z: 7
+        x: 30028
+      description: so vai e pega os bixo
+    -
+      icon: cross
+      position:
+        y: 20091
+        z: 6
+        x: 30963
+      description: Zoroark 116
+    -
+      icon: flag
+      position:
+        y: 36213
+        z: 6
+        x: 30067
+      description: SAIDA MAGNETON
+    -
+      icon: checkmark
+      position:
+        y: 6276
+        z: 7
+        x: 3530
+    -
+      icon: flag
+      position:
+        y: 38027
+        z: 7
+        x: 30019
+      description: SAIDA TOED
+    -
+      icon: flag
+      position:
+        y: 35772
+        z: 7
+        x: 30027
+      description: SAIDA ONIX
+    -
+      icon: flag
+      position:
+        y: 39651
+        z: 7
+        x: 30013
+      description: SAIDA PSY
+    -
+      icon: flag
+      position:
+        y: 35619
+        z: 7
+        x: 30015
+      description: SAIDA ONIX
+    -
+      icon: flag
+      position:
+        y: 34712
+        z: 7
+        x: 30078
+      description: SAIDA ARIADOS
+    -
+      icon: exclamationmark
+      position:
+        y: 21170
+        z: 8
+        x: 30397
+      description: Tem Nada
+    -
+      icon: flag
+      position:
+        y: 34230
+        z: 7
+        x: 30016
+      description: SAIDA STANTLER
+    -
+      icon: checkmark
+      position:
+        y: 6245
+        z: 7
+        x: 3652
+    -
+      icon: flag
+      position:
+        y: 32912
+        z: 6
+        x: 30128
+      description: VAZARE
+    -
+      icon: cross
+      position:
+        y: 33653
+        z: 6
+        x: 30049
+      description: 4 bixo
+    -
+      icon: exclamationmark
+      position:
+        y: 22519
+        z: 7
+        x: 31241
+      description: Cranidos
+    -
+      icon: flag
+      position:
+        y: 32517
+        z: 7
+        x: 30016
+      description: SAIDA RHYDON
+    -
+      icon: flag
+      position:
+        y: 21390
+        z: 7
+        x: 30082
+      description: SAIDA
+    -
+      icon: flag
+      position:
+        y: 36495
+        z: 7
+        x: 30009
+      description: SAIDA MAGNETON
+    -
+      icon: flag
+      position:
+        y: 32912
+        z: 6
+        x: 30052
+      description: VAZARE
+    -
+      icon: star
+      position:
+        y: 3324
+        z: 4
+        x: 5348
+      description: nao foi
+    -
+      icon: exclamationmark
+      position:
+        y: 22556
+        z: 7
+        x: 31273
+      description: Cradily
+    -
+      icon: cross
+      position:
+        y: 5922
+        z: 1
+        x: 5487
+    -
+      icon: flag
+      position:
+        y: 37167
+        z: 7
+        x: 30045
+      description: SAIDA AERO
+    -
+      icon: flag
+      position:
+        y: 36213
+        z: 6
+        x: 30189
+      description: SAIDA MAGNETON
+    -
+      icon: exclamationmark
+      position:
+        y: 35424
+        z: 7
+        x: 30064
+      description: safe
+    -
+      icon: flag
+      position:
+        y: 35033
+        z: 7
+        x: 30014
+      description: SAIDA ARIADOS
+    -
+      icon: exclamationmark
+      position:
+        y: 12472
+        z: 9
+        x: 10133
+      description: 2
+    -
+      icon: star
+      position:
+        y: 21153
+        z: 7
+        x: 30300
+      description: MEWTWO NASCE AQUI
+    -
+      icon: star
+      position:
+        y: 5242
+        z: 7
+        x: 3667
+      description: GRUTA
+    -
+      icon: flag
+      position:
+        y: 37803
+        z: 7
+        x: 30076
+      description: SAIDA AERO
+    -
+      icon: checkmark
+      position:
+        y: 6318
+        z: 7
+        x: 3561
+    -
+      icon: flag
+      position:
+        y: 36176
+        z: 6
+        x: 30015
+      description: SAIDA MAGNETON
+    -
+      icon: star
+      position:
+        y: 37660
+        z: 7
+        x: 30062
+      description: safe
+    -
+      icon: flag
+      position:
+        y: 21781
+        z: 7
+        x: 30078
+      description: SAIDA DODRIO
+    -
+      icon: flag
+      position:
+        y: 32213
+        z: 7
+        x: 30071
+      description: SAIDA RHYDON
+    -
+      icon: exclamationmark
+      position:
+        y: 22519
+        z: 7
+        x: 31251
+      description: Omastar
+    -
+      icon: flag
+      position:
+        y: 38712
+        z: 7
+        x: 30100
+      description: SAIDA TOED
+    -
+      icon: checkmark
+      position:
+        y: 6348
+        z: 7
+        x: 3667
+    -
+      icon: cross
+      position:
+        y: 5923
+        z: 2
+        x: 5488
+    -
+      icon: flag
+      position:
+        y: 38954
+        z: 7
+        x: 30076
+      description: SAIDA TOED
+    -
+      icon: star
+      position:
+        y: 20737
+        z: 6
+        x: 30744
+      description: LAB
+    -
+      icon: flag
+      position:
+        y: 21669
+        z: 7
+        x: 30016
+      description: SAIDA DODRIO
+    -
+      icon: flag
+      position:
+        y: 32809
+        z: 7
+        x: 30025
+      description: SAIDA RHYDON
+    -
+      icon: checkmark
+      position:
+        y: 6188
+        z: 7
+        x: 3619
+    -
+      icon: exclamationmark
+      position:
+        y: 36250
+        z: 6
+        x: 30045
+      description: SAFE
+    -
+      icon: questionmark
+      position:
+        y: 39708
+        z: 7
+        x: 30049
+    -
+      icon: flag
+      position:
+        y: 39541
+        z: 7
+        x: 30044
+      description: SAIDA
+    -
+      icon: flag
+      position:
+        y: 39139
+        z: 7
+        x: 30089
+      description: SAIDA PSYCRAFT
+    -
+      icon: checkmark
+      position:
+        y: 6200
+        z: 7
+        x: 3731
+    -
+      icon: flag
+      position:
+        y: 32754
+        z: 7
+        x: 30028
+      description: SAIDA RHYDON
+    -
+      icon: exclamationmark
+      position:
+        y: 22551
+        z: 7
+        x: 31213
+      description: Aerodactly
+    -
+      icon: skull
+      position:
+        y: 14247
+        z: 7
+        x: 17344
+    -
+      icon: cross
+      position:
+        y: 20038
+        z: 6
+        x: 30955
+      description: Voir
+    -
+      icon: flag
+      position:
+        y: 34585
+        z: 7
+        x: 30019
+      description: SAIDA ARIADOS
+    -
+      icon: flag
+      position:
+        y: 34424
+        z: 7
+        x: 30049
+      description: SAIDA STANTLER
+    -
+      icon: flag
+      position:
+        y: 32648
+        z: 7
+        x: 30049
+      description: SAIDA RHYDON
+    -
+      icon: times
+      position:
+        y: 33030
+        z: 6
+        x: 30099
+      description: 2 fogo q gira
+    -
+      icon: cross
+      position:
+        y: 5923
+        z: 3
+        x: 5488
+    -
+      icon: flag
+      position:
+        y: 33831
+        z: 7
+        x: 30107
+      description: SAIDA STANTLER
+    -
+      icon: flag
+      position:
+        y: 36887
+        z: 6
+        x: 30068
+      description: SAIDA MAGNETOM
+    -
+      icon: flag
+      position:
+        y: 35536
+        z: 7
+        x: 30043
+      description: SAIDA ONIX
+    -
+      icon: cross
+      position:
+        y: 20060
+        z: 6
+        x: 30970
+      description: 938 hary
+    -
+      icon: questionmark
+      position:
+        y: 12537
+        z: 10
+        x: 10047
+      description: 3
+    -
+      icon: flag
+      position:
+        y: 37473
+        z: 7
+        x: 30016
+      description: SAIDA AERO
+    -
+      icon: exclamationmark
+      position:
+        y: 22582
+        z: 7
+        x: 31241
+      description: Armaldo
+    -
+      icon: flag
+      position:
+        y: 37258
+        z: 7
+        x: 30015
+      description: SAIDA AERO
+    -
+      icon: flag
+      position:
+        y: 36962
+        z: 6
+        x: 30161
+      description: SAIDA MAGNETON
+    -
+      icon: checkmark
+      position:
+        y: 12427
+        z: 11
+        x: 10065
+      description: 45 min
+    -
+      icon: flag
+      position:
+        y: 39253
+        z: 7
+        x: 30041
+      description: SAIDA PSYCRAFT
+    -
+      icon: flag
+      position:
+        y: 39064
+        z: 7
+        x: 30044
+      description: SAIDA PSY-MALEFIC
+    -
+      icon: star
+      position:
+        y: 37635
+        z: 7
+        x: 30031
+      description: safe
+    -
+      icon: flag
+      position:
+        y: 36394
+        z: 7
+        x: 30045
+      description: SAIDA MAGNETON
+    -
+      icon: flag
+      position:
+        y: 33225
+        z: 7
+        x: 30063
+      description: SAIDA NINETALES
+    -
+      icon: exclamationmark
+      position:
+        y: 22556
+        z: 7
+        x: 31213
+      description: Bastiodon
+    -
+      icon: exclamationmark
+      position:
+        y: 22546
+        z: 7
+        x: 31220
+      description: Carracosta
+    -
+      icon: exclamationmark
+      position:
+        y: 22575
+        z: 7
+        x: 31252
+      description: Kabutops
+    -
+      icon: flag
+      position:
+        y: 33013
+        z: 6
+        x: 30027
+      description: SAIDA NINETALES
+    -
+      icon: flag
+      position:
+        y: 39461
+        z: 7
+        x: 30018
+      description: SAIDA PSY
+    -
+      icon: cross
+      position:
+        y: 5923
+        z: 5
+        x: 5488
+    -
+      icon: exclamationmark
+      position:
+        y: 22545
+        z: 7
+        x: 31278
+      description: Archeops
+    -
+      icon: flag
+      position:
+        y: 36962
+        z: 6
+        x: 30070
+      description: SAIDA MAGNETON
+    -
+      icon: flag
+      position:
+        y: 22625
+        z: 6
+        x: 31343
+      description: SAFE
+    -
+      icon: star
+      position:
+        y: 12459
+        z: 9
+        x: 10141
+      description: 25 min
+    -
+      icon: flag
+      position:
+        y: 34082
+        z: 7
+        x: 30039
+      description: SAIDA STANTLER
+    -
+      icon: flag
+      position:
+        y: 33412
+        z: 6
+        x: 30037
+      description: SAIDA NINE
+    -
+      icon: exclamationmark
+      position:
+        y: 36051
+        z: 7
+        x: 30061
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36068
+        z: 7
+        x: 30073
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36057
+        z: 7
+        x: 30090
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36061
+        z: 7
+        x: 30115
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36063
+        z: 7
+        x: 30116
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36065
+        z: 7
+        x: 30102
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36049
+        z: 7
+        x: 30035
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36087
+        z: 7
+        x: 30018
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36041
+        z: 7
+        x: 30012
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36031
+        z: 7
+        x: 30012
+      description: |-
+         safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36079
+        z: 7
+        x: 30063
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36042
+        z: 7
+        x: 30073
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36008
+        z: 7
+        x: 30075
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36008
+        z: 7
+        x: 30081
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36066
+        z: 7
+        x: 30116
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36057
+        z: 7
+        x: 30244
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3838
+        z: 7
+        x: 3726
+      description: Crystal
+      color: orange
+    -
+      icon: flag
+      position:
+        y: 34818
+        z: 7
+        x: 30038
+      description: SAIDA ARIADOS
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 34684
+        z: 7
+        x: 30039
+      description: SAIDA ARIADOS
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 32312
+        z: 7
+        x: 30051
+      description: SAIDA RHYDON
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 36054
+        z: 7
+        x: 30078
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 38779
+        z: 7
+        x: 30009
+      description: SAIDA TOED
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 38421
+        z: 7
+        x: 30076
+      description: SAIDA TOED
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35465
+        z: 7
+        x: 30044
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35443
+        z: 7
+        x: 30042
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 35408
+        z: 7
+        x: 30035
+      description: SAIDA
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35754
+        z: 7
+        x: 30074
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35769
+        z: 7
+        x: 30037
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35749
+        z: 7
+        x: 30026
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35725
+        z: 7
+        x: 30011
+      description: safe
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 5018
+        z: 10
+        x: 3719
+      description: ARIADOS CYBER
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 33557
+        z: 6
+        x: 30013
+      description: SAIDA NINE
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 3718
+        z: 7
+        x: 3574
+      description: COLISEUM
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35428
+        z: 7
+        x: 30053
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35459
+        z: 7
+        x: 30022
+      color: #FFFF18
+    -
+      icon: checkmark
+      position:
+        y: 21302
+        z: 6
+        x: 30978
+      description: safe
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 20291
+        z: 3
+        x: 30229
+      description: TOMMY
+      color: #ff4000
+    -
+      icon: checkmark
+      position:
+        y: 20233
+        z: 5
+        x: 30282
+      description: JASON
+      color: #ff4000
+    -
+      icon: pointup
+      position:
+        y: 20295
+        z: 5
+        x: 30228
+      description: NPC DE FLY DAILY
+      color: #ff4000
+    -
+      icon: naturia
+      position:
+        y: 20342
+        z: 5
+        x: 30208
+      description: ERVAS
+    -
+      icon: pokeball
+      position:
+        y: 20247
+        z: 5
+        x: 30259
+      color: #389BFF
+    -
+      icon: pokeball
+      position:
+        y: 20252
+        z: 5
+        x: 30258
+      color: #389BFF
+    -
+      icon: pokeball
+      position:
+        y: 20230
+        z: 4
+        x: 30269
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 301
+        z: 6
+        x: 656
+      description: BAUZIN
+      color: #FF38B6
+    -
+      icon: flag
+      position:
+        y: 21551
+        z: 7
+        x: 30050
+      description: SAIDA DODRIO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 33909
+        z: 7
+        x: 30079
+      description: SAIDA STANTLER
+      color: #389BFF
+    -
+      icon: house
+      position:
+        y: 376
+        z: 6
+        x: 698
+      description: CP
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 21969
+        z: 7
+        x: 30030
+      description: SAIDA DODRIO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 36710
+        z: 7
+        x: 30070
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 39371
+        z: 7
+        x: 30017
+      description: SAIDA PSY-MALEFIC
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 36027
+        z: 7
+        x: 30039
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 36030
+        z: 7
+        x: 30010
+      description: SAIDA ONIX
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 36027
+        z: 7
+        x: 30046
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 37611
+        z: 7
+        x: 30176
+      description: SAIDA AERO
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 37841
+        z: 7
+        x: 30060
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 37612
+        z: 7
+        x: 30072
+      description: SAIDA AERO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 22601
+        z: 6
+        x: 31329
+      description: ponto safe
+      color: #389BFF
+    -
+      icon: fish
+      position:
+        y: 12516
+        z: 9
+        x: 10174
+      description: FORA DA TELA
+      color: #FF38B6
+    -
+      icon: exclamationmark
+      position:
+        y: 36062
+        z: 7
+        x: 30091
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36052
+        z: 7
+        x: 30077
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 21917
+        z: 5
+        x: 31232
+      description: SAIDA PSY-MALEFIC
+      color: #389BFF
+    -
+      icon: skull
+      position:
+        y: 39741
+        z: 7
+        x: 30045
+      color: #888
+    -
+      icon: skull
+      position:
+        y: 39039
+        z: 7
+        x: 30021
+      color: #888
+    -
+      icon: skull
+      position:
+        y: 39038
+        z: 7
+        x: 30093
+      color: #888
+    -
+      icon: flag
+      position:
+        y: 33132
+        z: 6
+        x: 30012
+      description: SAIDA NINE
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35876
+        z: 7
+        x: 30124
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35877
+        z: 7
+        x: 30150
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35869
+        z: 7
+        x: 30157
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35858
+        z: 7
+        x: 30136
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35829
+        z: 7
+        x: 30172
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35823
+        z: 7
+        x: 30172
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35825
+        z: 7
+        x: 30165
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35821
+        z: 7
+        x: 30127
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35820
+        z: 7
+        x: 30147
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 37153
+        z: 7
+        x: 30075
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 37464
+        z: 7
+        x: 30067
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3211
+        z: 10
+        x: 6220
+      description: BAU ESCONDIDO
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 3237
+        z: 11
+        x: 6218
+      description: DAR LIGHT
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 3325
+        z: 11
+        x: 5279
+      description: DAR LIGHT
+      color: #4CFF4C
+    -
+      icon: cross
+      position:
+        y: 21125
+        z: 6
+        x: 25184
+      description: NPC LANCE 01
+      color: #FFFF18
+    -
+      icon: cross
+      position:
+        y: 21163
+        z: 6
+        x: 25131
+      description: NPC LANCE 02
+      color: #FFFF18
+    -
+      icon: cross
+      position:
+        y: 21150
+        z: 6
+        x: 25199
+      description: NPC LANCE 03
+      color: #FFFF18
+    -
+      icon: cross
+      position:
+        y: 21099
+        z: 6
+        x: 25219
+      description: NPC LANCE 04
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37676
+        z: 7
+        x: 30078
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35759
+        z: 7
+        x: 30064
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35621
+        z: 7
+        x: 30083
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 39241
+        z: 7
+        x: 30045
+      description: NAO TEM PASSAGEM
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 39622
+        z: 7
+        x: 30036
+      description: LURA 4 E VAI EMBORA NAO ENTRA AI
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37638
+        z: 7
+        x: 30076
+      description: SAFE - DA LOST NAS PEDRA E PRONTO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37624
+        z: 7
+        x: 30014
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37765
+        z: 7
+        x: 30013
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 21856
+        z: 7
+        x: 30017
+      description: SAIDA DODRIO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 21856
+        z: 7
+        x: 30135
+      description: SAIDA DODRIO
+      color: #389BFF
+    -
+      icon: questionmark
+      position:
+        y: 21838
+        z: 7
+        x: 30197
+      description: talvez aqui q sai
+      color: #FFFF18
+    -
+      icon: house
+      position:
+        y: 3209
+        z: 10
+        x: 5204
+      description: BURACO ESCONDIDO DE BAIXO DA MESA
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36395
+        z: 7
+        x: 30053
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36372
+        z: 7
+        x: 30061
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36351
+        z: 7
+        x: 30031
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 3795
+        z: 7
+        x: 3634
+      description: NPC BH
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 3694
+        z: 7
+        x: 4064
+      description: cave
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 5048
+        z: 7
+        x: 3578
+      description: NPC BH
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 4913
+        z: 6
+        x: 3600
+      description: NPC BH
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 4926
+        z: 6
+        x: 3561
+      description: NPC BH
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 4914
+        z: 5
+        x: 3599
+      description: NPC BH
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 4926
+        z: 4
+        x: 3578
+      description: NPC BH
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 4909
+        z: 4
+        x: 3604
+      description: NPC BH
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 5508
+        z: 7
+        x: 3430
+      description: NPC BH
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 5263
+        z: 7
+        x: 3964
+      description: NPC BH
+      color: #FF38B6
+    -
+      icon: pointleft
+      position:
+        y: 4132
+        z: 6
+        x: 4441
+      description: cave
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 4050
+        z: 10
+        x: 3694
+      description: NPC KANTO - CHOSEN
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3999
+        z: 7
+        x: 3684
+      description: CAVE
+      color: #FF38B6
+    -
+      icon: star
+      position:
+        y: 5540
+        z: 9
+        x: 4025
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3603
+        z: 7
+        x: 3734
+      description: cave
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 4282
+        z: 8
+        x: 4432
+      description: NPC BH
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 4517
+        z: 11
+        x: 4188
+      description: BURACO PRA DESCER 1 ANDAR ESCONDIDO
+      color: #CCC
+    -
+      icon: pointdown
+      position:
+        y: 4517
+        z: 11
+        x: 4187
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3404
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3400
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3407
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3402
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3405
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3406
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3403
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3401
+        z: 10
+        x: 4044
+      description: PASSAGEM PRO OUTRO NIVEL
+      color: #4CFF4C
+    -
+      icon: house
+      position:
+        y: 3539
+        z: 10
+        x: 5343
+      description: BAU INVISIVEL (LIGHT)
+      color: #389BFF
+    -
+      icon: pointdown
+      position:
+        y: 6287
+        z: 5
+        x: 4260
+      description: SHINY RHYDON (USE DIG)
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 6287
+        z: 5
+        x: 4259
+      description: shiny rhydon
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 6285
+        z: 7
+        x: 4261
+      description: SHINY RHYDON
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 3841
+        z: 7
+        x: 3726
+      description: Crystal
+    -
+      icon: flag
+      position:
+        y: 34395
+        z: 7
+        x: 30030
+      description: SAIDA STANTLER
+      color: #389BFF
+    -
+      icon: pointleft
+      position:
+        y: 20953
+        z: 5
+        x: 30493
+      description: RESPAW DE ALOLAN RAICHU (CUIDADO ANDOU JA TEM BIXO)
+      color: #FFFF18
+    -
+      icon: dollar
+      position:
+        y: 20952
+        z: 5
+        x: 30503
+      description: RESPAW MERCHANT
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 33672
+        z: 6
+        x: 30049
+      description: SAIDA NINE
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35854
+        z: 7
+        x: 30067
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35466
+        z: 7
+        x: 30021
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 37354
+        z: 7
+        x: 30097
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 37354
+        z: 7
+        x: 30211
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 37341
+        z: 7
+        x: 30098
+      description: SAIDA ONIX
+      color: #389BFF
+    -
+      icon: pointdown
+      position:
+        y: 4054
+        z: 7
+        x: 3702
+      description: cave
+      color: #FF38B6
+    -
+      icon: pointdown
+      position:
+        y: 3537
+        z: 7
+        x: 4023
+      description: cave
+      color: #FF38B6
+    -
+      icon: star
+      position:
+        y: 11624
+        z: 5
+        x: 5189
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 6329
+        z: 12
+        x: 3689
+      description: F
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6330
+        z: 12
+        x: 3717
+      description: G
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6357
+        z: 12
+        x: 3759
+      description: R
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6377
+        z: 12
+        x: 3759
+      description: LETRA i de igor
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6405
+        z: 12
+        x: 3729
+      description: x
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6380
+        z: 12
+        x: 3728
+      description: q
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6406
+        z: 12
+        x: 3699
+      description: w
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6380
+        z: 12
+        x: 3699
+      description: Y
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6381
+        z: 12
+        x: 3665
+      description: B
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 6353
+        z: 12
+        x: 3665
+      description: P
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6342
+        z: 10
+        x: 3749
+      description: N
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6315
+        z: 10
+        x: 3752
+      description: D
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6331
+        z: 10
+        x: 3705
+      description: E
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6331
+        z: 10
+        x: 3684
+      description: V
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6315
+        z: 10
+        x: 3694
+      description: Z
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6317
+        z: 10
+        x: 3719
+      description: L
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6299
+        z: 10
+        x: 3732
+      description: C
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6299
+        z: 10
+        x: 3690
+      description: K
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6284
+        z: 10
+        x: 3708
+      description: T
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6265
+        z: 10
+        x: 3687
+      description: J
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6264
+        z: 10
+        x: 3730
+      description: S
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6257
+        z: 8
+        x: 3690
+      description: A
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6233
+        z: 8
+        x: 3735
+      description: U
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6213
+        z: 8
+        x: 3733
+      description: H
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6209
+        z: 8
+        x: 3712
+      description: M
+      color: #4CFF4C
+    -
+      icon: pointright
+      position:
+        y: 6229
+        z: 8
+        x: 3681
+      description: O
+      color: #4CFF4C
+    -
+      icon: house
+      position:
+        y: 6305
+        z: 12
+        x: 3703
+      description: CENTRO POKEMON
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 6084
+        z: 6
+        x: 3801
+      description: NPC BH
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 20718
+        z: 5
+        x: 30829
+      description: CRANIDOS (ESCADA)
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 6222
+        z: 7
+        x: 3610
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 22621
+        z: 6
+        x: 31355
+      description: Ponto Safe
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 21636
+        z: 6
+        x: 31225
+      description: SAIDA DODRIO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 21294
+        z: 7
+        x: 30039
+      description: SAIDA DODRIO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 35113
+        z: 7
+        x: 30079
+      description: SAIDA ARIADOS
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 37048
+        z: 6
+        x: 30049
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36260
+        z: 6
+        x: 30107
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36243
+        z: 6
+        x: 30077
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35321
+        z: 7
+        x: 30043
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35335
+        z: 7
+        x: 30015
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35952
+        z: 7
+        x: 30024
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35948
+        z: 7
+        x: 30047
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35968
+        z: 7
+        x: 30050
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35968
+        z: 7
+        x: 30088
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35982
+        z: 7
+        x: 30075
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35982
+        z: 7
+        x: 30112
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35949
+        z: 7
+        x: 30114
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35938
+        z: 7
+        x: 30106
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35952
+        z: 7
+        x: 30087
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35938
+        z: 7
+        x: 30083
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35908
+        z: 7
+        x: 30053
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35832
+        z: 7
+        x: 30020
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35821
+        z: 7
+        x: 30038
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35820
+        z: 7
+        x: 30058
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35825
+        z: 7
+        x: 30076
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35823
+        z: 7
+        x: 30083
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35829
+        z: 7
+        x: 30083
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35854
+        z: 7
+        x: 30069
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35835
+        z: 7
+        x: 30063
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35834
+        z: 7
+        x: 30066
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35847
+        z: 7
+        x: 30069
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35853
+        z: 7
+        x: 30061
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35869
+        z: 7
+        x: 30068
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35877
+        z: 7
+        x: 30061
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35847
+        z: 7
+        x: 30031
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35459
+        z: 7
+        x: 30072
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35467
+        z: 7
+        x: 30050
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35449
+        z: 7
+        x: 30015
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35443
+        z: 7
+        x: 30043
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35432
+        z: 7
+        x: 30061
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35512
+        z: 7
+        x: 30135
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35529
+        z: 7
+        x: 30169
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35530
+        z: 7
+        x: 30168
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35523
+        z: 7
+        x: 30161
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35538
+        z: 7
+        x: 30175
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35558
+        z: 7
+        x: 30176
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35568
+        z: 7
+        x: 30160
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35578
+        z: 7
+        x: 30145
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35569
+        z: 7
+        x: 30131
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37667
+        z: 7
+        x: 30027
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37788
+        z: 7
+        x: 30064
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36598
+        z: 6
+        x: 30060
+      description: safe
+      color: #ff4000
+    -
+      icon: checkmark
+      position:
+        y: 20070
+        z: 4
+        x: 29999
+      description: 4
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 20055
+        z: 4
+        x: 30013
+      description: 5
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 20054
+        z: 5
+        x: 29987
+      description: 6
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 20569
+        z: 5
+        x: 30614
+      description: LIBERAR CLONES 5-6
+      color: #FFFF18
+    -
+      icon: pointup
+      position:
+        y: 20574
+        z: 6
+        x: 30623
+      description: PC Q LIBERA CLONES
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 35233
+        z: 7
+        x: 30013
+      description: SAIDA ARIDOS
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 33764
+        z: 7
+        x: 30011
+      description: SAIDA STANTLER
+      color: #389BFF
+    -
+      icon: times
+      position:
+        y: 39557
+        z: 7
+        x: 30045
+      description: TEM NADA CARAI
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 35537
+        z: 7
+        x: 30138
+      description: SAIDA ONIX
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35551
+        z: 7
+        x: 30145
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35333
+        z: 7
+        x: 30073
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35335
+        z: 7
+        x: 30071
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35338
+        z: 7
+        x: 30071
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35357
+        z: 7
+        x: 30072
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35357
+        z: 7
+        x: 30052
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35344
+        z: 7
+        x: 30040
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35346
+        z: 7
+        x: 30028
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35353
+        z: 7
+        x: 30030
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35335
+        z: 7
+        x: 30016
+      description: safe
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 35333
+        z: 7
+        x: 30016
+      description: bomba
+      color: #888
+    -
+      icon: exclamationmark
+      position:
+        y: 35324
+        z: 7
+        x: 30014
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35320
+        z: 7
+        x: 30015
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35876
+        z: 7
+        x: 30035
+      description: safe
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 35876
+        z: 7
+        x: 30058
+      description: bomba
+      color: #888
+    -
+      icon: exclamationmark
+      position:
+        y: 35966
+        z: 7
+        x: 30091
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35938
+        z: 7
+        x: 30081
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35927
+        z: 7
+        x: 30060
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 35811
+        z: 7
+        x: 30116
+      description: saida onix
+      color: #389BFF
+    -
+      icon: pointdown
+      position:
+        y: 21162
+        z: 7
+        x: 30402
+      description: paredeeeeee OLHA O FRASCO ESCONDIDO \/
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 5950
+        z: 10
+        x: 2939
+      description: NPC BH
+      color: #389BFF
+    -
+      icon: pointdown
+      position:
+        y: 5952
+        z: 7
+        x: 2941
+      description: NPC BH EMBAIXO & 02 TICKET PARK NO BAU
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 5944
+        z: 10
+        x: 2963
+      description: BAU 02 TICKETS PARK
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 5978
+        z: 9
+        x: 2957
+      description: DESCE
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 5883
+        z: 7
+        x: 3120
+      description: NPC ETHAN
+      color: #4CFF4C
+    -
+      icon: times
+      position:
+        y: 20618
+        z: 5
+        x: 30885
+      description: FLOR BROCK QUEST
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36140
+        z: 6
+        x: 30063
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 39736
+        z: 7
+        x: 30046
+      description: << NAO TEM COMO IR PRA >>
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35655
+        z: 7
+        x: 30064
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35645
+        z: 7
+        x: 30083
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35622
+        z: 7
+        x: 30033
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35609
+        z: 7
+        x: 30035
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35645
+        z: 7
+        x: 30024
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35654
+        z: 7
+        x: 30023
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35665
+        z: 7
+        x: 30039
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35619
+        z: 7
+        x: 30012
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35642
+        z: 7
+        x: 30023
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35623
+        z: 7
+        x: 30066
+      description: safe
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 35622
+        z: 7
+        x: 30075
+      description: BOMBA
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35731
+        z: 7
+        x: 30075
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35727
+        z: 7
+        x: 30071
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35738
+        z: 7
+        x: 30053
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35753
+        z: 7
+        x: 30084
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35762
+        z: 7
+        x: 30068
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35762
+        z: 7
+        x: 30056
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35753
+        z: 7
+        x: 30019
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35729
+        z: 7
+        x: 30021
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35709
+        z: 7
+        x: 30046
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6060
+        z: 6
+        x: 3339
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6087
+        z: 7
+        x: 3439
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6128
+        z: 7
+        x: 3423
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6144
+        z: 7
+        x: 3399
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6174
+        z: 7
+        x: 3336
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6159
+        z: 7
+        x: 3322
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6154
+        z: 7
+        x: 3319
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6069
+        z: 7
+        x: 3360
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6123
+        z: 7
+        x: 3402
+      description: PLANTA QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6060
+        z: 7
+        x: 3339
+      description: ANDAR DE CIMA, QUEST NAMORADOS
+      color: #FFFF18
+    -
+      icon: dollar
+      position:
+        y: 6121
+        z: 7
+        x: 3391
+      description: AVENTUREIRO
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 39706
+        z: 7
+        x: 30053
+      description: SAIDA PSY
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 37864
+        z: 7
+        x: 30051
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37850
+        z: 7
+        x: 30062
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37456
+        z: 7
+        x: 30054
+      description: safe
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 20295
+        z: 5
+        x: 30772
+      description: CAVE NPC BH E HUNT SPOINK
+      color: #FF38B6
+    -
+      icon: star
+      position:
+        y: 20085
+        z: 2
+        x: 30110
+      description: CHAVE DAILY 500 +
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20084
+        z: 8
+        x: 30111
+      description: chave DAILY 500+ BRONZE
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20084
+        z: 4
+        x: 30111
+      description: CHAVE DZ 500 + BRONZE
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20090
+        z: 4
+        x: 30088
+      description: chave dz 500+ bronze
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3767
+        z: 7
+        x: 3904
+      description: |-
+        NPC BH 
+      color: #FF38B6
+    -
+      icon: exclamationmark
+      position:
+        y: 36879
+        z: 6
+        x: 30054
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35950
+        z: 7
+        x: 30070
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35929
+        z: 7
+        x: 30090
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35969
+        z: 7
+        x: 30110
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35630
+        z: 7
+        x: 30012
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37456
+        z: 7
+        x: 30136
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37465
+        z: 7
+        x: 30149
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 37472
+        z: 7
+        x: 30099
+      description: saida aero
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 37342
+        z: 7
+        x: 30047
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37316
+        z: 7
+        x: 30075
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37317
+        z: 7
+        x: 30188
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37343
+        z: 7
+        x: 30161
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 37342
+        z: 7
+        x: 30211
+      description: saida aero
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 37373
+        z: 7
+        x: 30083
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6209
+        z: 7
+        x: 5605
+      description: NPC, COREY
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6076
+        z: 6
+        x: 5656
+      description: NPC TOBEY
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5829
+        z: 5
+        x: 6141
+      description: NPC TED (TOISE,FERA,CRAW,VOIR, M.LUCARIO,GYA)
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5817
+        z: 3
+        x: 6117
+      description: NPC WEST (s.toise/geot/machamp/ m.swampet /magneton/s.cloyster)
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 5795
+        z: 5
+        x: 6149
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5818
+        z: 5
+        x: 6182
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6088
+        z: 6
+        x: 5674
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5700
+        z: 7
+        x: 5551
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5706
+        z: 7
+        x: 5515
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 5674
+        z: 5
+        x: 5350
+      description: fonte 02
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5692
+        z: 5
+        x: 5359
+      description: fonte 4
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5705
+        z: 5
+        x: 5365
+      description: FONTE 1-5
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5726
+        z: 5
+        x: 5363
+      description: FONTE 6
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5657
+        z: 5
+        x: 5420
+      description: fonte 3-7
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 5747
+        z: 7
+        x: 5416
+      description: VORTEX - tem 1 bau mto loko ai
+      color: #FFFF18
+    -
+      icon: pointleft
+      position:
+        y: 6007
+        z: 7
+        x: 5435
+      description: HUNT MIGHTYENA + ABSOL
+      color: #FFFF18
+    -
+      icon: pointup
+      position:
+        y: 5963
+        z: 5
+        x: 6109
+      description: |-
+        ENTRADA 
+      color: #389BFF
+    -
+      icon: pointup
+      position:
+        y: 5963
+        z: 5
+        x: 6162
+      description: SAIDA
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5678
+        z: 7
+        x: 5555
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: pointup
+      position:
+        y: 5794
+        z: 5
+        x: 6114
+      description: ENTRADA
+      color: #FFFF18
+    -
+      icon: pointup
+      position:
+        y: 5794
+        z: 5
+        x: 6168
+      description: SAIDA
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 5812
+        z: 8
+        x: 6130
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: warning
+      position:
+        y: 5840
+        z: 8
+        x: 5347
+      description: BAUZIN 2/12
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 6109
+        z: 7
+        x: 5858
+      description: TASK PELIPER 350 KILL
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5626
+        z: 7
+        x: 5458
+      description: NPC BIKER
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 5548
+        z: 7
+        x: 5455
+      description: PNEU
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 5536
+        z: 7
+        x: 5522
+      description: PNEU
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 5581
+        z: 7
+        x: 5572
+      description: BAU PHENAC 1/6
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 5590
+        z: 7
+        x: 5633
+      description: |-
+        GASOLINA 
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 5603
+        z: 8
+        x: 5529
+      description: MOTO
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 3160
+        z: 7
+        x: 2779
+      description: granbull
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5813
+        z: 8
+        x: 5822
+      description: BAUZIN 1/12 AGATE
+      color: #FFFF18
+    -
+      icon: checkmark
+      position:
+        y: 5703
+        z: 6
+        x: 8216
+      description: NPC
+      color: #4CFF4C
+    -
+      icon: exclamationmark
+      position:
+        y: 5871
+        z: 7
+        x: 5699
+      description: CAIXA
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 5817
+        z: 5
+        x: 6174
+      description: CHEFE HUGO
+      color: #FF38B6
+    -
+      icon: exclamationmark
+      position:
+        y: 5695
+        z: 7
+        x: 5508
+      description: NPC WES
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6139
+        z: 7
+        x: 5757
+      description: ITEM BIFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6072
+        z: 7
+        x: 5837
+      description: ITEM SHIRIMP
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6037
+        z: 7
+        x: 5881
+      description: 22:48 VocÃª vÃª um special lure.
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6037
+        z: 6
+        x: 5822
+      description: |-
+         22:50 VocÃª vÃª um Blue fish.
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6047
+        z: 6
+        x: 5804
+      description: 22:51 VocÃª vÃª um Ultra special lure.
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6075
+        z: 6
+        x: 5823
+      description: 22:52 VocÃª vÃª um Special fish tail.
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6066
+        z: 6
+        x: 5793
+      description: 22:53 VocÃª vÃª um green worm. Ã um item Ãºnico.
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6057
+        z: 6
+        x: 5790
+      description: 22:55 VocÃª vÃª um Kelp. Ã um item Ãºnico.
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 6124
+        z: 6
+        x: 5760
+      description: 22:56 VocÃª vÃª um Special Shiny Magikarp fin. Ã um item Ãºnico.
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 6056
+        z: 6
+        x: 5790
+      description: 22:59 VocÃª vÃª um Red Gyarados tail. Ã um item Ãºnico
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 6082
+        z: 6
+        x: 5656
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5807
+        z: 4
+        x: 6142
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6103
+        z: 6
+        x: 5669
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 6038
+        z: 7
+        x: 5881
+      description: 20:00 VocÃª vÃª um Shiny Tentacruel tentacle. Ã um item Ãºnico.
+      color: #FFFF18
+    -
+      icon: checkmark
+      position:
+        y: 5874
+        z: 7
+        x: 5405
+      description: BAUZIN AGATE 3/12
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 5719
+        z: 7
+        x: 5464
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5681
+        z: 7
+        x: 5504
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: pointright
+      position:
+        y: 4385
+        z: 4
+        x: 5028
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5998
+        z: 8
+        x: 5036
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5992
+        z: 8
+        x: 5025
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5978
+        z: 8
+        x: 5015
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5963
+        z: 8
+        x: 5010
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5956
+        z: 8
+        x: 5011
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5957
+        z: 8
+        x: 5021
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5957
+        z: 8
+        x: 5037
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5958
+        z: 8
+        x: 5046
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5951
+        z: 8
+        x: 5053
+      description: revive
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 5945
+        z: 8
+        x: 5057
+      description: SAFE ZONE
+      color: #FF38B6
+    -
+      icon: warning
+      position:
+        y: 5946
+        z: 8
+        x: 5058
+      description: SAFE ZONE
+      color: #FF38B6
+    -
+      icon: warning
+      position:
+        y: 5945
+        z: 8
+        x: 5059
+      description: SAFE ZONE
+      color: #FF38B6
+    -
+      icon: exclamationmark
+      position:
+        y: 5753
+        z: 7
+        x: 5449
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 5768
+        z: 7
+        x: 5409
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35566
+        z: 7
+        x: 30040
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35558
+        z: 7
+        x: 30082
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35538
+        z: 7
+        x: 30081
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35538
+        z: 7
+        x: 30065
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35551
+        z: 7
+        x: 30051
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36047
+        z: 7
+        x: 30102
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35624
+        z: 7
+        x: 30160
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35621
+        z: 7
+        x: 30177
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35621
+        z: 7
+        x: 30176
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35655
+        z: 7
+        x: 30158
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35645
+        z: 7
+        x: 30177
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35665
+        z: 7
+        x: 30133
+      description: safe
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 35664
+        z: 7
+        x: 30125
+      description: BOMBAAAAAA
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35654
+        z: 7
+        x: 30117
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35645
+        z: 7
+        x: 30118
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35642
+        z: 7
+        x: 30117
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35630
+        z: 7
+        x: 30106
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35619
+        z: 7
+        x: 30106
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35622
+        z: 7
+        x: 30127
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35609
+        z: 7
+        x: 30129
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37552
+        z: 7
+        x: 30049
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 4210
+        z: 4
+        x: 5045
+      description: tem 1 poke
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 6076
+        z: 5
+        x: 5697
+      description: NPC RESPAW BH ORRE
+      color: #389BFF
+    -
+      icon: pointup
+      position:
+        y: 5714
+        z: 7
+        x: 5513
+      description: NPC RESPAW BH (CIMA)
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6074
+        z: 6
+        x: 5698
+      description: NPC BH ORRE (CIMA)
+      color: #389BFF
+    -
+      icon: times
+      position:
+        y: 3620
+        z: 8
+        x: 4313
+      description: 1 PEGADA
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3640
+        z: 8
+        x: 4353
+      description: 2 PEGADA
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3666
+        z: 8
+        x: 4304
+      description: 3 PEGADA
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3669
+        z: 8
+        x: 4360
+      description: 4 PEGADA
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3674
+        z: 8
+        x: 4381
+      description: 5 PEGADA
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3685
+        z: 8
+        x: 4381
+      description: 6 PEGADA
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 3769
+        z: 7
+        x: 3934
+      description: |-
+        NPC AGATHA 
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 5829
+        z: 5
+        x: 6151
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: checkmark
+      position:
+        y: 10131
+        z: 7
+        x: 12421
+      description: 1
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 10131
+        z: 7
+        x: 12373
+      description: 1
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 10081
+        z: 7
+        x: 12412
+      description: 2
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 10113
+        z: 7
+        x: 12441
+      description: 1
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 36575
+        z: 6
+        x: 30031
+      description: SAIDA MAGNETOM
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35908
+        z: 7
+        x: 30093
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 10082
+        z: 7
+        x: 12127
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 10081
+        z: 7
+        x: 12125
+      description: 2
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 10113
+        z: 7
+        x: 12154
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 10127
+        z: 7
+        x: 12085
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 10131
+        z: 7
+        x: 12136
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 10140
+        z: 7
+        x: 12112
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 10139
+        z: 7
+        x: 12114
+      color: #FFFF18
+    -
+      icon: pointup
+      position:
+        y: 20545
+        z: 5
+        x: 30216
+      description: ENTRADA CAVE SHUPPET + BANNETE E MISS
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20315
+        z: 5
+        x: 31034
+      description: bag misty
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 20358
+        z: 4
+        x: 30993
+      description: MAMOSWINE ><ARVORE GIGANTE TAMPANDO><
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 6048
+        z: 7
+        x: 3334
+      description: npc bh
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 38461
+        z: 7
+        x: 30088
+      description: saida toed
+      color: #389BFF
+    -
+      icon: skull
+      position:
+        y: 39140
+        z: 7
+        x: 30046
+      description: nao tem saida
+      color: #888
+    -
+      icon: exclamationmark
+      position:
+        y: 35332
+        z: 7
+        x: 30058
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37731
+        z: 7
+        x: 30076
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37832
+        z: 7
+        x: 30100
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37874
+        z: 7
+        x: 30070
+      description: safe
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 37873
+        z: 7
+        x: 30085
+      description: bomba
+      color: #ff4000
+    -
+      icon: star
+      position:
+        y: 37874
+        z: 7
+        x: 30096
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37900
+        z: 7
+        x: 30070
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37873
+        z: 7
+        x: 30022
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37856
+        z: 7
+        x: 30045
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 37887
+        z: 7
+        x: 30023
+      description: SAIDA AERO
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 37902
+        z: 7
+        x: 30097
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37903
+        z: 7
+        x: 30056
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 6197
+        z: 7
+        x: 3890
+      description: NPC BH
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 35738
+        z: 7
+        x: 30070
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35738
+        z: 7
+        x: 30068
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35411
+        z: 7
+        x: 30045
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37624
+        z: 7
+        x: 30058
+      description: safe
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 4220
+        z: 7
+        x: 3738
+      description: NPC BH
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5100
+        z: 7
+        x: 3254
+      description: NPC BH ORRE
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5812
+        z: 6
+        x: 6120
+      description: RESPAW NPC BH ORRE
+      color: #389BFF
+    -
+      icon: pointright
+      position:
+        y: 5713
+        z: 4
+        x: 3826
+      description: STEELIX HUNT
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 5764
+        z: 8
+        x: 3855
+      description: |-
+        QUEST - BAU 
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 5875
+        z: 7
+        x: 5372
+      description: BAG DA TOWER
+      color: #FFFF18
+    -
+      icon: arrowdown
+      position:
+        y: 3797
+        z: 7
+        x: 4243
+      color: #FFFF18
+    -
+      icon: dollar
+      position:
+        y: 3511
+        z: 10
+        x: 6254
+      description: DUNGEON DE FRAGMENTO
+      color: #4CFF4C
+    -
+      icon: dollar
+      position:
+        y: 3519
+        z: 10
+        x: 6253
+      description: DUNGEON DE FRAGMENTO
+      color: #4CFF4C
+    -
+      icon: flag
+      position:
+        y: 3834
+        z: 7
+        x: 4433
+      description: |-
+        NPC BH 
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 3317
+        z: 10
+        x: 6233
+      description: USA LIGHT PRA PEDRA SAIR E PEGAR O BAU ESCONDIDO
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 3307
+        z: 10
+        x: 6219
+      description: BAU ESCONDIDO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3306
+        z: 10
+        x: 6229
+      description: USA LIGHT DE NOVO
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3230
+        z: 11
+        x: 5858
+      description: NUNCA DE LIGHT SE DER... VAI FICAR PRESO E PERDER A DUNGEON BURROOOO
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3232
+        z: 11
+        x: 5858
+      description: NUNCA DE LIGHT SE DER... VAI FICAR PRESO E PERDER A DUNGEON BURROOOO
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3001
+        z: 10
+        x: 5349
+      description: NAO USA LIGHT !!!!!! SO VAI PRA CIMA E BOA
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 4675
+        z: 5
+        x: 4541
+      description: QUEST - BAUZIN
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 4342
+        z: 4
+        x: 5126
+      description: ponto safe, nao chove
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3787
+        z: 6
+        x: 3691
+      description: quest pra low level (acho q 15+)
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 21371
+        z: 7
+        x: 33659
+      description: PRESTA ATENÃAO, FRASCO ESCONDIDO
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 3395
+        z: 10
+        x: 6190
+      description: BAU USA LIGHT
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3804
+        z: 7
+        x: 3902
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3481
+        z: 7
+        x: 3742
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4212
+        z: 7
+        x: 3876
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3802
+        z: 7
+        x: 3952
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4253
+        z: 7
+        x: 3867
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4068
+        z: 7
+        x: 4116
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 3426
+        z: 9
+        x: 6062
+      description: bau invisivel
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3503
+        z: 9
+        x: 6219
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3503
+        z: 10
+        x: 6219
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3502
+        z: 9
+        x: 6211
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3504
+        z: 9
+        x: 6226
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3500
+        z: 9
+        x: 6223
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3500
+        z: 9
+        x: 6215
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3499
+        z: 9
+        x: 6219
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3503
+        z: 10
+        x: 6212
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3498
+        z: 10
+        x: 6219
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3503
+        z: 10
+        x: 6225
+      description: FRAGMENTOOOOOOOOOOOOOOOOOOO
+      color: #FFFF18
+    -
+      icon: times
+      position:
+        y: 3487
+        z: 10
+        x: 6275
+      description: BAU PODE TA AQUI
+      color: #4CFF4C
+    -
+      icon: times
+      position:
+        y: 3522
+        z: 10
+        x: 6307
+      description: BAU PODE TA AQUI
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3223
+        z: 10
+        x: 6190
+      description: VORTEX
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20994
+        z: 5
+        x: 30551
+      description: FLOR - BROCK QUEST
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3559
+        z: 7
+        x: 4110
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3966
+        z: 7
+        x: 3871
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3604
+        z: 7
+        x: 4253
+      description: NPC BH KANTO (TOPO)
+      color: #389BFF
+    -
+      icon: pointdown
+      position:
+        y: 3697
+        z: 7
+        x: 3886
+      description: vortex pra hunt de mantine
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 4215
+        z: 7
+        x: 3700
+      description: HUNT WOBB+XATU
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 4215
+        z: 7
+        x: 3699
+      description: HUNT WOBB+XATU
+      color: #FFFF18
+    -
+      icon: pointdown
+      position:
+        y: 20357
+        z: 6
+        x: 30795
+      description: NPC LIZA, COSMIC QUEST (DESCE ESCADA)
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 4000
+        z: 7
+        x: 4573
+      description: cave
+      color: #CCC
+    -
+      icon: star
+      position:
+        y: 3150
+        z: 7
+        x: 4690
+      description: ENERGIA EMILIA QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3364
+        z: 7
+        x: 3498
+      description: ENERGIA EMILIA QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3248
+        z: 7
+        x: 3501
+      description: ENERGIA EMILIA QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3130
+        z: 7
+        x: 3494
+      description: ENERGIA EMILIA QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3930
+        z: 7
+        x: 4798
+      description: ENERGIA EMILIA QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5475
+        z: 7
+        x: 3288
+      description: ENERGIA EMILIA QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5474
+        z: 7
+        x: 3270
+      description: ENERGIA EMILIA QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20260
+        z: 14
+        x: 31649
+      description: YOLANDA NPC
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20245
+        z: 13
+        x: 31675
+      description: PC PRA CLICAR
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 20239
+        z: 13
+        x: 31666
+      description: MACHAMPAO BOLADO
+      color: #4CFF4C
+    -
+      icon: pointleft
+      position:
+        y: 5653
+        z: 6
+        x: 5599
+      description: CAVE RALTS-KIRLIA- VOIR
+      color: #FFFF18
+    -
+      icon: pointup
+      position:
+        y: 5654
+        z: 6
+        x: 5598
+      description: CAVE RALTS-KIRLIA- VOIR
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5255
+        z: 11
+        x: 3663
+      description: DUNGEON S.CRUEL !!!!
+      color: #FFFF18
+    -
+      icon: checkmark
+      position:
+        y: 5510
+        z: 10
+        x: 4064
+      description: 1
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5494
+        z: 10
+        x: 4123
+      description: 2
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5517
+        z: 10
+        x: 4101
+      description: 3
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5531
+        z: 10
+        x: 4096
+      description: 4
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5553
+        z: 10
+        x: 4097
+      description: 5
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5518
+        z: 10
+        x: 4084
+      description: 6
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5529
+        z: 10
+        x: 4060
+      description: 7
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5571
+        z: 10
+        x: 4045
+      description: 8
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5560
+        z: 10
+        x: 4121
+      description: 10
+      color: #4CFF4C
+    -
+      icon: checkmark
+      position:
+        y: 5517
+        z: 10
+        x: 4114
+      description: 9
+      color: #4CFF4C
+    -
+      icon: star
+      position:
+        y: 5529
+        z: 10
+        x: 4114
+      description: TP PRO PROXIMO ANDAR - MUMIAS POE POKE AQUI
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5548
+        z: 10
+        x: 4101
+      description: DPS DE CLICAR NAS 10 - VEM KA E PEGA TP PRA PARTE FINAL ALI EM CIMA
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5571
+        z: 11
+        x: 4048
+      description: corre ate aqui e pega tp pra parte final
+      color: #FFFF18
+    -
+      icon: pointup
+      position:
+        y: 5551
+        z: 10
+        x: 4108
+      description: ENTRA DPS DO  10
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 4965
+        z: 7
+        x: 3711
+      description: NPC - LIVRO CHOSEN ( 2 E 5 )
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5051
+        z: 7
+        x: 3695
+      description: NPC - LIVRO  CHOSEN (1-4)
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5092
+        z: 7
+        x: 3581
+      description: NPC - LIVRO CHOSEN (3-6)
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35513
+        z: 7
+        x: 30026
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35525
+        z: 7
+        x: 30051
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35523
+        z: 7
+        x: 30070
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35531
+        z: 7
+        x: 30076
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35530
+        z: 7
+        x: 30077
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35538
+        z: 7
+        x: 30083
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35523
+        z: 7
+        x: 30027
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35513
+        z: 7
+        x: 30044
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35535
+        z: 7
+        x: 30028
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35547
+        z: 7
+        x: 30039
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35548
+        z: 7
+        x: 30041
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35579
+        z: 7
+        x: 30054
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35568
+        z: 7
+        x: 30070
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35709
+        z: 7
+        x: 30041
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 35743
+        z: 7
+        x: 30086
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 22597
+        z: 6
+        x: 31335
+      description: SAIDA AERO DPS Q MATAR
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 389
+        z: 7
+        x: 313
+      description: TC
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3613
+        z: 7
+        x: 4687
+      description: NPC BH
+      color: #389BFF
+    -
+      icon: pointdown
+      position:
+        y: 3446
+        z: 1
+        x: 3793
+      description: SUDOWODO + TOGEKISS
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3446
+        z: 2
+        x: 3792
+      description: SUDOWODO + TOGEKISS
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3446
+        z: 3
+        x: 3793
+      description: SUDOWODO + TOGEKISS
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3444
+        z: 4
+        x: 3792
+      description: SUDOWODO + TOGEKISS
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3444
+        z: 5
+        x: 3793
+      description: SUDOWODO + TOGEKISS
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3446
+        z: 6
+        x: 3793
+      description: SUDOWODO + TOGEKISS
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 3446
+        z: 7
+        x: 3793
+      description: SUDOWODO + TOGEKISS
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 5011
+        z: 7
+        x: 4038
+      description: VORTEX LANCE QUEST - RESPAW DRAGONAIR
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 36065
+        z: 7
+        x: 30089
+      description: BOMBA NO MEIO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37854
+        z: 7
+        x: 30099
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37211
+        z: 7
+        x: 30052
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37240
+        z: 7
+        x: 30013
+      description: safe
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20073
+        z: 13
+        x: 30847
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20048
+        z: 13
+        x: 30848
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20098
+        z: 13
+        x: 30813
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20141
+        z: 12
+        x: 30909
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20102
+        z: 12
+        x: 30917
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20078
+        z: 12
+        x: 30956
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20057
+        z: 11
+        x: 30832
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20086
+        z: 11
+        x: 30810
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20080
+        z: 11
+        x: 30844
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20088
+        z: 10
+        x: 30931
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20117
+        z: 10
+        x: 30945
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20133
+        z: 10
+        x: 30935
+      description: alavanca
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 5153
+        z: 7
+        x: 3681
+      description: NPC BH
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5156
+        z: 7
+        x: 3639
+      description: NPC BH
+      color: #389BFF
+    -
+      icon: skull
+      position:
+        y: 10852
+        z: 8
+        x: 10323
+      description: CUIDADO AQUI ANIMAL, BURACO ESCONDIDO
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 32755
+        z: 7
+        x: 30113
+      description: SAIDA RHYDON
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 33832
+        z: 7
+        x: 30015
+      description: SAIDA STANTLER
+      color: #389BFF
+    -
+      icon: exclamationmark
+      position:
+        y: 38183
+        z: 7
+        x: 30027
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 38178
+        z: 7
+        x: 30069
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36264
+        z: 6
+        x: 30069
+      description: safe
+      color: #FFFF18
+    -
+      icon: exclamationmark
+      position:
+        y: 36038
+        z: 7
+        x: 30094
+      description: safe arma
+      color: #FFFF18
+    -
+      icon: warning
+      position:
+        y: 20028
+        z: 5
+        x: 21058
+      description: SAFEZONE  ( sai com poke pra fora animal )
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 37764
+        z: 7
+        x: 30026
+      description: bomba
+      color: #4CFF4C
+    -
+      icon: star
+      position:
+        y: 37759
+        z: 7
+        x: 30105
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37774
+        z: 7
+        x: 30084
+      description: safe
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 37799
+        z: 7
+        x: 30107
+      description: SAFE
+      color: #FFFF18
+    -
+      icon: skull
+      position:
+        y: 37865
+        z: 7
+        x: 30021
+      description: bomba
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 4463
+        z: 7
+        x: 3694
+      description: biker LAB QUEST  (300 menos nao ataka)
+      color: #FF38B6
+    -
+      icon: flag
+      position:
+        y: 5837
+        z: 7
+        x: 3430
+      description: |-
+        NPC BH 
+      color: #389BFF
+    -
+      icon: arrowdown
+      position:
+        y: 5909
+        z: 7
+        x: 5332
+      description: |-
+        BAG DA TOWER 
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 5654
+        z: 7
+        x: 5667
+      description: cave armaldo
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 4964
+        z: 4
+        x: 3712
+      description: NPC - LIVRO CHOSEN ( 2 E 5 )
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5091
+        z: 6
+        x: 3579
+      description: NPC - LIVRO CHOSEN (3-6)
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 4914
+        z: 7
+        x: 3603
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4913
+        z: 5
+        x: 3601
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4911
+        z: 4
+        x: 3603
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4932
+        z: 4
+        x: 3577
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4924
+        z: 6
+        x: 3564
+      description: NPC BH KANTO
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 5515
+        z: 11
+        x: 4064
+      description: NPC TONY ( te leva direto pro quebra cabeÃ§a ou boss se tu tiver perdido 1x neles )
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 6341
+        z: 12
+        x: 3737
+      description: MISSIGNO DAILY (1X por SERVER SAVE)
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 2853
+        z: 6
+        x: 2839
+      description: FRAGMENTO - MAIN QUEST
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20379
+        z: 5
+        x: 30740
+      description: ERVA - COSMIC QUEST 01 RHYDON
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20344
+        z: 5
+        x: 30706
+      description: ERVA - COSMIC QUEST-  02 RHYDON
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20322
+        z: 5
+        x: 30785
+      description: ERVA - COSMIC QUEST - 03 RHYDON
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20393
+        z: 7
+        x: 30814
+      description: ERVA - COSMIC QUEST - 04 STEELIX
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 20400
+        z: 7
+        x: 30709
+      description: RESPAW - ALOLAN DIGLET
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 20364
+        z: 8
+        x: 30622
+      description: RESPAW ALOLAN DIGLET
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 20438
+        z: 7
+        x: 30625
+      description: ERVA - COSMIC QUEST - 05 ALOLAN DIGLET
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5888
+        z: 7
+        x: 5323
+      description: 23:54 VocÃª vÃª um red jungle bells.
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5806
+        z: 7
+        x: 5367
+      description: 23:54 VocÃª vÃª um red jungle bells.
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5820
+        z: 7
+        x: 5419
+      description: 23:54 VocÃª vÃª um red jungle bells.
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5949
+        z: 7
+        x: 5353
+      description: 23:54 VocÃª vÃª um red jungle bells.
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 5845
+        z: 7
+        x: 5408
+      description: NPC - MATAR 50 KECLEON
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 5783
+        z: 7
+        x: 5403
+      description: 23:54 VocÃª vÃª um red jungle bells.
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 20573
+        z: 6
+        x: 30622
+      description: PC LIBERAR CLONES 5-6
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3792
+        z: 7
+        x: 4343
+      description: NPC BH
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3307
+        z: 7
+        x: 4034
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3277
+        z: 7
+        x: 4050
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3300
+        z: 7
+        x: 3951
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3270
+        z: 7
+        x: 3977
+      description: BH KANTO (andar full cima geot)
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3270
+        z: 4
+        x: 3977
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3333
+        z: 7
+        x: 4361
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3362
+        z: 7
+        x: 4294
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3321
+        z: 7
+        x: 4299
+      description: BH KANTO (sim, na agua) surf la em cima nos wartortle
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3293
+        z: 7
+        x: 4507
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3544
+        z: 7
+        x: 3901
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6086
+        z: 7
+        x: 3888
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6219
+        z: 7
+        x: 3948
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6287
+        z: 7
+        x: 3922
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6309
+        z: 7
+        x: 3899
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6309
+        z: 5
+        x: 3899
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6313
+        z: 7
+        x: 3849
+      description: BH KANTO (ANDAR DE CIMA AMBIPOM - SOBE O MAPA ANIMAL )
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6314
+        z: 5
+        x: 3849
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6288
+        z: 7
+        x: 3866
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6216
+        z: 7
+        x: 3718
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6248
+        z: 7
+        x: 3596
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6284
+        z: 7
+        x: 3648
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6336
+        z: 7
+        x: 3606
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5982
+        z: 7
+        x: 4154
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5902
+        z: 7
+        x: 3150
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6037
+        z: 7
+        x: 3913
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6063
+        z: 7
+        x: 3851
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6092
+        z: 7
+        x: 3865
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6145
+        z: 7
+        x: 3893
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6169
+        z: 6
+        x: 3950
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3622
+        z: 8
+        x: 4159
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3571
+        z: 8
+        x: 4028
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6149
+        z: 7
+        x: 3929
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5996
+        z: 4
+        x: 3164
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5997
+        z: 7
+        x: 3164
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5918
+        z: 4
+        x: 3197
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5918
+        z: 7
+        x: 3196
+      description: BH KANTO (full cima, sobe o mapa )
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 5974
+        z: 5
+        x: 3155
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5972
+        z: 7
+        x: 3154
+      description: BH KANTO (caverna)
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3414
+        z: 7
+        x: 3625
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3421
+        z: 7
+        x: 4165
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3416
+        z: 8
+        x: 4147
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3462
+        z: 8
+        x: 4151
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3427
+        z: 8
+        x: 4183
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3317
+        z: 7
+        x: 4607
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3246
+        z: 6
+        x: 4666
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3244
+        z: 6
+        x: 4609
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3312
+        z: 6
+        x: 4691
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: warning
+      position:
+        y: 20062
+        z: 5
+        x: 21052
+      description: SAFEZONE  ( sai com poke pra fora animal )
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3281
+        z: 5
+        x: 4031
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3281
+        z: 7
+        x: 4030
+      description: BH KANTO (RESPAW SUDOWODO)
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4210
+        z: 7
+        x: 4193
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 4292
+        z: 7
+        x: 4422
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6164
+        z: 7
+        x: 4125
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 6164
+        z: 4
+        x: 4123
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 5777
+        z: 7
+        x: 3416
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3837
+        z: 7
+        x: 3870
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3700
+        z: 6
+        x: 4279
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3700
+        z: 7
+        x: 4277
+      description: BH KANTO
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3736
+        z: 6
+        x: 4252
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3737
+        z: 7
+        x: 4253
+      description: BH KANTO
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3747
+        z: 6
+        x: 4292
+      description: BH KANTO
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3748
+        z: 7
+        x: 4291
+      description: BH KANTO
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 3576
+        z: 8
+        x: 4410
+      description: rock smash pros npc
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 3525
+        z: 8
+        x: 4395
+      description: rock smash pros npc
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3219
+        z: 5
+        x: 2919
+      description: artefato
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 3236
+        z: 5
+        x: 2886
+      description: |-
+        NPC RANK 5 
+      color: #FFFF18
+    -
+      icon: pointright
+      position:
+        y: 3236
+        z: 7
+        x: 2888
+      description: |-
+        NPC RANK 5 
+      color: #FFFF18
+    -
+      icon: flag
+      position:
+        y: 3233
+        z: 3
+        x: 2896
+      description: |-
+        NPC RANK 5 
+      color: #389BFF
+    -
+      icon: flag
+      position:
+        y: 3251
+        z: 3
+        x: 2881
+      description: |-
+        NPC RANK 5 
+      color: #389BFF
+    -
+      icon: star
+      position:
+        y: 3193
+        z: 7
+        x: 2911
+      description: ARTEFATO
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3157
+        z: 7
+        x: 2529
+      description: ARTEFATO
+      color: #FFFF18
+    -
+      icon: checkmark
+      position:
+        y: 13112
+        z: 4
+        x: 6750
+      color: #4CFF4C
+    -
+      icon: pointdown
+      position:
+        y: 5904
+        z: 7
+        x: 5300
+      description: CRADILY
+      color: #ff4000
+    -
+      icon: star
+      position:
+        y: 365
+        z: 7
+        x: 296
+      description: Salac Berry
+      color: #888
+    -
+      icon: star
+      position:
+        y: 3474
+        z: 7
+        x: 3605
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3904
+        z: 7
+        x: 4177
+      color: #FFFF18
+    -
+      icon: star
+      position:
+        y: 3975
+        z: 7
+        x: 4220
+      color: #FFFF18
+  zoom: 1
+last-character-55022ef8ef53f719954ba03bac7b4ca034d72154:
+  name: Allypha Ecchi
+  avatar: b27
+  world: violet
+diamondshop-offers:
+  addons: D5D3E5211473910F79C5672851A98C2E8EA4D855
+  clans: F751E295F251082C99E3A04AA0CACFF0DE70A80D
+  outfits: 92D7E5CFE45083DEDE3E3512E8B00B0C3D3C0DBF
+  market: 8D34264BDA185CA2A30A6785D2721E32F2493050
